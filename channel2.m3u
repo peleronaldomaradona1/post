@@ -1,2 +1,500 @@
-#EXTINF:-1 tvg-id="Knowledge.ca" tvg-name="KS: KNOWLEDGE KIDS" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATYAAACjCAMAAAA3vsLfAAABjFBMVEW68P/4wdnU7/2/nHuOukj/0nT///8dHR1IMim99P+78v/vwWDX8/8AAAC+9v/zkbyi3vlDLSXwwFoXExLZ9v9CLCQaGBhFLCHB+f8NAADEoH5FLSLs+/9AKx9DJxqi0N0VEA6y5fO97vet3uyUvcmKZkxgSDqmhmqwj3FFKyhCJxoQBgA+IRKWnqOTdV3yvlRUaG7I3uo6JhaRucTrxWqm1eJjfINCUFR9Yk55maLvutBZQTVZb3V/f4BQPDQ5REeywcomKSqms7pzWUe6zddrb2/M4c5iV1TlynzH5dvaqbs6FwAxOTtYSEJ1lJ2OuUiZdHzhzpFwU1PNnq+JjI//2Hfo5uX0nsSIrkWPqrFIWV7Z1anJycnB6uyBl5y4jZr2sc+GZWmRbnTSrHlTSS7qwHbe0ZrR3L5gU06j1KVeYjOr3seVw2lziTx6d3fas3hqdjip272ti1KYjYmXeEkqAAC/mlmspKExEARtUC96lz9lbTWayYHLpJDYrKZYPy4rFB+QuHCLp6RaVzFATdvyAAAgAElEQVR4nO2djV/iZrbHqTNTk4hpIy8BM4bX+hKCigjqKBERRAfi+Dbtoquu050Z2pm13bZ3d9rtbvfe/cfvOc+TQIAQQB2m7Xo+904xhEC+Oc85v3OeJ1mX697u7d7u7d7u7d7u7d7u7d7u7d7u7d7u7b/b3F4396F/w2/OvI8/BvN+6J/xGzPvx4bdO9wg9tjE9vhD/5LfkjWc7eOPox/6t/yGzILtPrz1Z48fe5tj9B5bfxYlAe0e24BmAUbNxd1HN0dDqeZtp/Ze0ikPxrK/D21jT8wYqSyLu7Cm3e6M+f3s/lo6HuuxG+fiOI5+8R0Yh2a/+VaH7ULsj8TicdwljpYGi93qq/jNYCIYHN+MOO0EvCKxWCYUctyr07id3d3l5Ynddtx7aC0/G4BFo+fne+eDfUGrRe2pfT4+iubZxKsf3IKXfk84mL6VD0SqfjhOeNFpHza+ubK5Wa1ubcUH+y7u9cLE2FgHtujy2NjYKyu26KtdBLy8fDjQ8dutGzY/wVZFbOMe+kewxt/ii7jMVgKOE8467cSm4cvQPANeIoptbLkD28TYRCu2w4kJ3HPi8FZDpyOHGtjQw0a3VhBbdZN63untvC22nwV/S+w7HYRNB8klCgdrA2LbOdy1xdYOiDtEaGMTC7u3kgpdRukfCzBMg+kQ7hJZQy+pRgK3jNN84NQzmlhzclk2vlXFS5TNhgb8Mo59DTyW21wIvG1ioRXbq2VEuXv2+nYKi/M+trOUZ3R0PIO/nU9v+cHXYrdPbgHwtnAPN2IxBAYDg2dtbscO26vDV69et6YE9vXC2MRr4wswod42rVoPHoKLPo6XnA+N+kf9QXr1G4dHPTLwQQPIv8dI5xDbeGDgYxvYoobmoCSIlGm/AhxiOyMbuejOXpTbOzvbuyNuEMDh10M649NIbTRuDC38FZyLdYXSMIBtAXAsylq+OaKNDTzPRfBQ5ujjGv8Yf3OohmEDYjM/zLmoI5BDsK62j7R+7x7Fxh1CooTYtbDAuc5BfezsNJhQmtyOiY07g70Wzl4tLLy+M2w4VtIsGwJ8o0aAZtMrp6enKzU+triVCG+dhixoWBdHTprLrO3vZ7Mbi6ZXcbE1umXfFcNon6G/EPQZWJM868qsZbNrGRe7CdgaG+lObC0LRjRJ++fasJ1z7C6J+WNjCxx3RqK/oUq4KLjV2U60gQ2okffh/+4MWwx+fbAWCFUhxvmN7MeDPPB4gvuxKkoJPwg56oNcIJZewxIgwqOECCYS4fD4Gs/FVlZWQnycbgiuuHDgj0bIdebTG1vj46OLpjxjQ4vjwXAiOL4YWQFsEQqtthgeH/efpvmVIBxxn8dNp/7x8a1sqCOxcOcmNgpjAbEtEGyUyc7yAmiPhbEdxAaihNuju70HbBlCbStDTw6QhCGn7m8kQP2iBK6SN9hYdssDaIKe6n6ETyeIUg7u82w64QlmAyFDOgM2GKNb5OiRbDhMyPupjGPjo2Gy12h4E6TPONYjfOY0QTaGPahcyBFjK2Hc5E9sUWfm2EaQNbFxZ69Iqnz9Gt1poiFAXk0YXjhxSLUcdwb/PTyPvoL/7NwZNrjo4eymh/zuNeOXhbIbnlH/5pY/uLkSJmcCb7CZTSq24HTAWcDbCNE1nt0HvFXAhhuwqoojNoz27Cls8iTCmGvw2BAKPCjWgkE4/CjFxoJPY3GCWhu/C7wtENvEy0Y+F0Y/5WvZfQgAbAPb2Dl8cAepRTGK7b2GYUrlLnU88K2JMQMlB6N5eQ+i3e7Cwp1hi6ygn8HPJe5mVohsKIxbofThYlVMFXh6eMp+GGHoZolTlyuOlODEIyDTRj0xV6gWHE1AdGTjHoqN20dqi/t4VfyeDKQ7dGrP4lp67ZRcgPEMfhoRbZ0uruCvGEW8/EoYDrCxvwFf7VmB3xRYHE8kEkbeNbBRJ4rSjEMQvqJpYGxi+Wxn52zXrBEQ2xikC+58Z+dWBarVyDnjGWxsYUowE2kIT8EDf3J8LYxuwbIwZEeD1XQ8vh/2oETmifKqsZA40VPTbAC8LhhhORMbF4M0E1wD+ZuBaxMEt0yP49jHzpKrhkMa5A7ZFtzIRLhIHK8L/ASIknCh0rBXCK8QuFtgA4dsmGKLIo8916sF4mvG1UdsZxTRxO45ZtLorultr8g29g5lWwObZz+wCJfYbFuwGYDoOcXfaeTaQJy6AlgAPRRKdfxEOMuycSQAxVRgxePZDLga3savBfF9UBQRAIpHgw8ksvTk+f0wxYbHynIspo8YuQ68CyAF1wJ8wBVb9BD3A2/Dgd3EtryDCWGiKTkoNhL9F84NrYYIERsKPagh9rpqmhtjC2Zd5LKbIpXIObMTQlwlAAw8pwZUEvNjfDqIYyiQRZ/wnEbA+4JYUpnYsMYKr4XWsosY/j0rAUw/YTPtoOIBbIhq3NyG7gqyB3cLxfezp/g5LG7ZUK22tm+Ua8TblicsubOJ7TWSMhXRGcUG7kbi3djh+R17G/gExIdNrK1MbFW/v0o0hIvHCnOfMDA1WgS9IMSjPvOEAit0mMfiEJxQ4rFGSuAxLyZAb4RBzoTHVwKZ0aY/E90WjPPxLSN9EJTjRAyRDB1M4Mc8iXGSS8AMGUyxERnWzIwmNiDVkLREt1mz68Sd6Q+KjfbGWBLEqMBCXWJiC1BsyCBuCvhsGCsyQq8Wq3qqi4hgLQEu5zKdET6LChpyASjm6mk2HWNDnlG6BzksOjFgQ5QNcTaOfk0iGspFz9bm6X66vZFJsU0c7u1OTJjtDY6mBIKtgXJvoSGBd3YJ5rG7yqQEG5WzXAQHxyKJABRbrIENTsaCzeUCXoCNXUuMhjfifs9pHKPYRjiRJQfKULnLITb/Fpx5PBYIRHgImI1rQZ0bsMFYbXgbwQbehvHfswUJN+QCn20vFAi2BRyRCw3XsmCbaPE2gg2TAQ2Gt+tZdmAjP41HvUDRoJyD6GXFRppBlsiXyHDoPiDcEhDm4ZNbVf84LcOwJh3NsAEc9acRUt+yaRAzRFobFQdLUkycNEIasQ2CJcQ2PDqGDRS4bPYU34wQo19OBAhhM0Z0bwPbIdfSHaEZFD4cPT9HdK/RR+9ong74NLBxMQxzGyR9EjkXa8Q2mhJA1xFvwiSAvsix6E9AKx7YJOrPQw+KHRB/nCeywR8PQOrnUcDWWBjb8DkeLj6PiQax4dHDGy5ahuI31Xi8ksZugXg4UQ2x/P4pFsl8E9uOUWuaLY49xMZy51A4gAdyhpQj2LDzhkIFG5cLd4SNJ6VhPEALSCIKMjAsCDZPDGt2liX+GAiRblzcFYAaK0ETnCuQRTCjYaI1aGZxGW3K8FosRjSzZy0TicVBTSfSPNZfnq10JpJJV8PU29DDQDxnYDiGVhKkm0AORndbgywDpURgIwjZYdxSJQA2jkWJsQCCzBWNkoqBOyc93QWopKCcXzCxHU7g+KWC5G6wRdI1bGCvpTGixeL7eO4b8ZCLJZkiFoHfFsI9wtmaK4snM3q6sbGZwBcYo9h4kGgPeBGmkhePSZri/urmhmuDFBTVlU0ok8IrqPaxjgpXV0iPgGBzuU4TWCUsbpxuESmEitvvN3aDai6YJXLX7/eTfkn0/DUZpFHu/BUtSl+dRXd3sVM+tru7d07SxfLu7jJNHCBREOXE4dnZLv55J9S4zDgpMxOkOIwHSQoLj5/GNlAxjY6Pg2TPklmaMOyxiPt6SG0e3iJRjEhhDHmkIwAVPzptpEqO6QdOESQMg5c02zPoxKf4Hm4wsAWgbN8MkgkzD9kPsdHSlX4uuAghjd9IbFWrVWzLnS2QxgeMxL2FxmzBsqlJ9iDIUa2B8Ii3ccQDJ8iEzB2V8lyMtjFoTR2nr6FoJKU0rQr4rPEyxrr2txJ41f0J/0rG6D6Sqgd8hoUX4UXardukBb9/08VnFo0OSJh+go1kt1CPQcRKQ3TwryzuY2NlFLaBUNmqGhqbC1Xp5xL+bAT/jmViYPiNrykhxGZ2OnbJdB8xqNhRlxBIr7A+XT48PD9cWKbqeOLVXUAj3mYYwWb+cQrYPESi7oO3gVwNh4k/8pm1xero1mY2bbYP+bVxIBChL8Zpog1sjgfxKMEqBsb0BhCoLpqf4PjQ2sbpabYWC6wgl+AG5LhAaG1xZXMlG0I5SJuUkdriVsJfzcZ5en0a7W/SqF3APu3esmGH0bEF6nnLWLFzO2eHh4dne+weiW4Te2e7r/cOYY/dO+t/uEKG4V8R849MZHFz5fR0cWMjDdpscQNbrlkiZNt7rlzsdHFxn8cLsLGxSDMvm67F45mYIRg6urTGwgkusImem9gg+/CwF5ww1KzjXbrC5hee7+zt7Z2fn0Nsj5pmeUUZU857C8Tt9siW6Hn07ip5zlz2YZyRuQYEf3AgEECpyQboDEGXA+Be5AXPB4yfBWWQZT6kfS6B/MFhetgEq2Zx8idLBQjK4a2I88lZJl56ndseZAYwo97/fSzlsQBY8wQ3InBhsPMGEu7uzq9fwL9B41z7kKoTK/trWdLSvd2KgP8eA7URxs55kHTfszeYOf3vNDa+mfDQnkc4O+C6rf9mY11rOLsX3Mqm37evRb3e39FqZTaCatZuMvlu7fH7WHP7IY0uP3jPX2IsxP0d+dtQzFjj93tyt2GYsabvcfTxPbm+jWtZUfqhf81vxR5/3LIO1/v48f2NLL3N7r6Me249zW7h8n1K7Wl2K+XvsfW0aCe3+3Taj3nb7UP/oHu7t1+tmSvxA8TMu09/n13YNrvZSZL7RyOxUO3iJFcyLXdyUQvhfA3/O7l1t6txvGvgmwDBx9hMupYrM5WKKsuK2DBZVisVrXxSi8cCv2d0nOtCzw3kcMA5ls7VNVEWJQZMmLKagJskRWb08kXozrpuJBb8mq4Cl5EltdQ3N44PxC5KjCpLjAC8lpaWtKOjqxcHBweXl/DP1dERA9umpiRGEuWKnku7bnuPIX5pIJKuXdTSmcBtbo69U2PjFYYBbv3tzMZqZfAy4mLa0dXB8dOPOu3pJeBjlqbA68Ahc6EIfzs34SI5UZExFtRrkV/JZBh/IcOokvu5g5YNZE50FQYmONk6EHtig8y0J0+Pr4AcoJPFUo27FTi+pIJrgzEwLkKBX8VQDZREBkhU4j38n2Nd8XIFxubU0vrVpRMxi9sdHEkATlSlWuzmw4utwYWdXl1d3dZ8jFi5+FVMMgfqkpiDUys7LzxgXaGSBINzijnqk5nhdAcacTm95rpxRM8pwuqDycnJB7PzmsAoF9YrwOGq8w+QKyIao+aTCiNfOPgDx4ZKFZERlrQDu2DmbJdHEOakih7nbhaXImXRN/uA2OTsNHCzBBTeFUrXUOwMGRwb0gSpOAIjVe5+hzgbudAA2tRAjmaxp1fgpZJUit3ILSKlBjawbZ/EmM82YSO1uiarIHZymeGmCjYtSXrRW1QZOdftnPh4XWWYJc0W2tMXLxqbnxxcdXHG46MliZG12o245WTf/GSD27og54xFVZEyJiiBZOyLoVZ0fE2WyqkR94nCMPZPP2EjJ6LITGkHDQZffPHFnxqkjpaWjkxuV0tTmsntT1988klzNxyq4HBK6QYCAn6isN2gNjnDmL80UpKB2fr0OpKTSz1Whd2psReyeD0yMpLSJLFst/yAj5XQ1Y4abvSnT4gZRC6X4M1jAyG+PrDbi7z7Yklg1DK5hXmgNVdcBrDMNLltg7vhQfga6JLpmdkHszOrPgG4DXOclkTlxDsy4k2qIEI6vphj0zK62uVHbdQ++cRwMEiTUwdNhMKR3V7mSJ0CAZHGGxlimUyk45aYbhbIycJ0c5TOCEwFfxqnS7B5spEq1IthuBtH1l2G6pKS9KK76ZLYWWPxNRB1U0eWiPWFCYQ60hGMj6kX9K0DQCjodnuZDoeQmZqrVqrrULJm+ox0bEhirNFtWlDJEnSNEWYmzRS7LnSLMndlHK4yZWPx9ElZrUiMWnADNjeKkI7HxpzgAL20nnoDyBcUm9TE9qKJ7ZPWvZoRjpQNqigJWLLmnEUwZ7bzAlDJaLOTJqJ5khQgmTHrjQwL3BhRv2UV52B4T2IkU8uVdEZWMA+JldQIMU1QSm2nAdQkrYVaOzYySC+bTKauHLF9dMmQFom2jnFcLnc+rMFExpIl2bE4bedJEMXm540AN8NI5QhgEy3YAKaPqfS3fHNAtnDpAq5Q7aKkVVRFlCRJVNSKdk2cjUY3pkX+8DkZ9NZx63m3Dr9j4m0HJJUevyDYnnYfpGhPJeA2Dac7sy0womzLjeMDXCh9USpLRjuPNKh8Pt8qdThG0DIQdSXBgg3Hrk2UsTHW1X8+YnkXXLqLss6QBgZ2xLR66aQAnkapkegmW6Iq57pQmSm9XYi1BPurJcgCUKUyTzAh0NfScfterXYMBZIwT7xGYyS9Iy6wLAyGkm608wQBaGEZj//6qA6ZhOAWYtk4Y/U2HLsM08fDqbh46aKPFYtYtQVc8QtsxeIvkSTwMbl8UiimvF4TGRpoN0lrip/AhQJXtVO+WqXFgX55fHx8eaUhNg1fHx9Q9+wUIE1/w1YmxnKUYGK59bcGXOmLsozBj/Ba315dnYfROQP/rG5vzzQkyAXPhuAqzVi87QHDqL2fVsfFNAiqPXYCJ4uF0jldlEkgkyAa68TH3GAjbZaqWL6XTau21FDIgtls79zNDhr6G7aEZw3pql5Yrm8sXZJk7ID6mOnt1XmyT9MsEkRgXGwGM6mFGtC0l56tRLC/qJx03Q/vSAcnK5UZlRBTFBiX1+BjI94OYNS8ZVEsG+OezejgmMf2531bA4EnTJNThThuDCxIVfGcroo4LJnpeVCxFk5tBipNSfMRnfG1YMOD9QxbtL+onti9BwIjAjFVh4CK7g7DUirnkvkRGJVdkJFRmhcZybi/PlIXG+rfzp726oQ8sW38GgYKj4b3SYzj+EgEPnShYTcPkK3OTNoRm2wBBNE/oEtWNQc0Icf0DG78CVZkjHLRuiP8ApcrVsuVNfR2dDJGg0CWwnHZnZgxSsuSTIc9B4Ft6qD7eT/V2nRJh10taQ7tEqgX6ADDChOyabykyViUr6/OPLB1stX1VSsgHyPFAmVJWG3Bts4oPSUIn1OksiYxsoUbMgvVcnVDYCgqhH7qZKZDeb0O2LxJmRHxbgI+rpoKzN6Ol9pUcLu9WGKmHNztqSYI68RxVgUlV6tXRBibdswmTSKCb9oi0iCXXgRKorDdgm1akHvmBD4nirmiLgI34zFzbAS8rK4pJJTJol6m+sLqZMVyKeXgdCmVJoVIGUSK41QByFzphePbzlghvNFhCo7DwA/2adstWdGwmVVjK9Schvygo1SQyuA3rdgekAzbB7ZrbxEkhXgRAI0RgcwtYvQHFVuRS8l8yt3hZO6yotRTDv5WElEyYticch6ET46WWmtVqx3rQK07VGIwTBmSKdcZTJyrs7YZYNpHJR4J9/Sl6X1M6EKxVvh9Y1MAm7sIGU+9CF2UqY6FWAYKo9jqZO7i9QmFBclXPunubu6CiKEm1mOIEm4HwI2x6ZE/OT6aEoQe1HGYMqSLBkCgbrIh1nCyVfOVkX0JxlUgdFNsUsk74s1D5BeJ2EEdq5/kOxWGty6r12QQAjZBc8gNpFLAynmp95zBwdQUM6W9aN3xyeUR2dyLGnwchimJVjNdsgCh4zM17ew6lAnNd2Z8Uj0n3gTbhSyVsVNW1KiQxYQ54rUTZal3oFSSbuptTKVY7DpOvTlIvKAjnbJo02GupqYEqKauLo+foh1fvlhfWppq6QQ7mOFuzobK2Nhre926+zoUGNJNYhtgq2PIcuc1RdJRyHbRse4i0JLK+KqOhOt6qRs3d77CiCWRsS0POg0qeaiUpgCVpkGBiRPxU7Yj186wYWKXBlrcbR6LeOMPa93+APwQuXdg6ylAaiqjkUjvThWKtl7W8DbiZCnaVGPm4HXBFYnY7wpgpf6cjYI70MHBJLJqBv5d0vqdeobxrLefth23GVDAdm/MkKbI6sACBItG2VBhPZSsVyRjk1Dx/fLd8nfv9j8Fs90X52IYZoDZ0CdPL18cHem6fnR0dem4wKHdoFYQ7Ii02uy8vUtCjmDaqoR+5C7WpBUn8WrBhk1a9DZv0vfLy+fP//Zu7dMu3Nx5ptmuHcRuMIP6ZKrtvLs4nPHff/3rn9atzWzRwMb0UVxxmQpTcdJgFkvpoqSRyAXUHj36QY0TbHbj1A2CZuo9lfDtdjVl0RQ97F/4gRZIvtZ+G2ZXRup5xzQXk2Hg9awzKYsihDOsOef+9vzR85dS+dNPu7mbtywx2nCo9ZUUDKPObHU3GKWtmRglsdazccSR1Rt9YItA9CftNW/y3Q+PwH6p1LpjG9F6lEV3aE+0tqBuhdDpaxZvmyQFVmtGwX5bqXffNlKX1EJPbBY+bsa3DNQ+U01nsxmk7rw0UEK4nUHput4F2/ys9Q2K7anx1+o0+ugMlA3WQQplWm/ZRpaUyMleOeHTpl+5C+++e/785Y/vSp86ONuJMnV0swUyN7Bjs1Lo8DUI+DPt3Ci1ydltnw/dDDC1dHchI6i9Z0o5V04hE+p9YUPHyikvX/7wC5Mzt9oqt7LUv2i7tcEoFWxzKQw4Rmvh9s9/0sA2OQMxjUREqEut/TZQxjih1dPbeGP5hpNFPm16FtSb//73nJJDYRzpAm0kJTs2de/aIJeuPrCzbZxOXbVpv60ygm+dAoXMqVl2WIXQ5pBITaDGYqH+sZWlH7774Rch57C/u6AyS8OjBoq3iwRBMcsI6/OzFnK4nBLXLGwb4xrkrWAZ4tN2oY37q/GcUO48yhoPCRMlvZdws2Bznyh/e/58+Yf/Oem+u/dEMRa/DMeOja6bPTYoA0jH15i4ml9d9wmKuN5IFtuCZYiDjutc+xN9+/DhG0Lv2cOHb/9KntaHE4W9hJs1+qdkYRnE7nfvuicS71BDGy0UbJWbgQ3nlxltent7e3odJ5kV7fvvRfMDRII0XBGSiNyxBuSrh0ALNp4/JPYVeVohpI6eetcS/b0n7358BHL3R1/XvaGSH5pqI6Z1qa+2TWxIzoeGSy+07z//+O9qgzM4mNbwVZwD6xijBBY42c8UG/G8gC7RLpqjRSxKI/fuR/C3l3K3T7mxdzfEjIC9cdsuyKQVm6Zr8P/l3N//iPcpW7CBBPGZ6XaGYeRO+UFYveXOnxnYvsJn9JVFMddfMW/atfLL3x49+jHXDVu+y0z8e7MDe8EL4qLpbPrnxIzbu/+uNLGt+hrQ5wWp3vk/82j42BuD2sO3UZwpVUh/dxAraO9+/O6XbsnUXVCk4YldNBC8ms0YJVMupqmfW++Kv7bkEHCxdeMllAi5zhLB8LGvTGzPzgHb/8lGo7J/c6eSZU3sOkiTUCMMk1r3VGrBpnxvofa5Ypk/wAks6nug4So2TSPDx8zQ9vAhYHvz0xzD9Nk6aprXXcx3/RCUVldDxfa0vWlmutu0NbhZ3O37d9YUYkoQiIWSbrO4zXSyprdxbx7+gWHEfnogHU7V9Z1r8SYtyttg0wXGLpWS1WqmSfWGr10r261jmUqQmZa77TiX+b8r87DNnp2DkvvDnwWldyodxIYs23CaWrCvSqEEsAzTa+Jvf/xee9daVIAEweCGGaRZj3LRr95iyuTedGB7G4Xx+uzrOcVhsvgGVpd6zgsPCVtLUmBEVa9rFVWcbtt3kiEtFKAnN5esvTFy5vnbDmw/k/e+nRNLd0ltZNhqF7BNdZtPsEo3kCG4fnd9pm1XiGn4cdy14WyGSPuKPX/Yie0t/vuXud5V6UCmDxvbR1dT3Rq8s9Mt3BjLTHNrcEPHlC/wf/uKPF+6URHYYHtLkEIqle8UmyYMH1uX1pFxi0Y7tza1gi1eyAeSHuG4n9/+/AaygZk23+51YjPem+tvOqF/bEPttjljw1uCfB3cfK3gEC0kDznNu/5KRuF5o5B6+NWzDmyGQSrt2eAdCNsH8LauszBgeLtyCzVhulXl0eIVb7eKvqU+9qaB7W1nSjDs67mByytH+yCxzWGKeXJ2lcE7Eigyn296vq3hSxKuXGI5l1l3vm1q267edvOc4DasdWt5+AJkyl6ANLg8mFndnl5fX5+e3p63WTsIVZVY2nsTZf9qg6cbtp8YQetzirkF2EgqX0gmk4VCsfUOhQ8gdyVnbITcg1mwLivuGWbuf5+BTPvKBk83bFgn9J4rtSDDijRZ0ioVlVqlwpST+ZQ50IdfXGlCvxPzXWxamPsJSPw8iLc9/A/khP7dbKSYLOmiLAqiTJaSSwo+1klmyiepEXp3pCxdDRdbl1K+f1sV5r5FEoN4G9QJZL1fX9CKyXpFFhVFYaQSDtB8vlBInuBdMqKiXue97hF3Qf519Nv6N6j5575GEs+eddLpiq1fwetOFcqaQhZEJ5O4xLyZElL5nC4yopQrun813d0BDATvn//QhU5XbM/6ErzekWRdFUVVzhVSbm9KkzQratiSBA9UmII7pUvDWqVFrctcwiC2Lmg/DYqtH8HrHklqMlApFeiyy1RZaus3uVMVpq5IcmnoqbR9RWRXm/zyy2++eQn2zTdftnxg0sgJg2H7x5xY6rEENV9WJUXNFRvtyWuxPSCmKloe0oFSLknG3e7Dsafd5knbmH3zEtdKNezll5b3zJwwELaf5pyVmzuVq4gKc2JZRu49UZhKq2wpVrSit1hXcJHv0hBzwuVU24pIW2Y4Kd5qzx81wGET5D8DY/tWYJxWubmLZYURr1vAeiGSiS3u5s4DNrc7dY33Wg6zvIJCfrsHtJftyAz7xtwDV6MOiO3Zt3OM5LCiARQF3lHUuvrejQ8TaIlusEUnd83nFKb3fUN3Z10XajXsmy7QwEx/m11n5mzEhxO2r4Galu8+RJOSxGjtK6PdBVW7FhnLrX7enFqmf+H6+uFJELyN2WmMdnU1EuDMvf9pcysAAASeSURBVLrnBHtsz/4xx4hOkS1ZkVSQaW0TDogtrymWtXGpsmpO718rQxylRz1UmxO1R89Nd4Oc8JcBsD1DX6s7jNCkIjEFb759PRdiG0mqTZjugthcg1OXhPUhUXvaQ344Umu4G9YJ/xgA29foa93vqgU6klyA2h1vhrRKO4hk2shISa4kae/DPaIrZcunhnZfAuRRzWGMfulM7dEjc9UMlFf2wc0G27P/ALWyAzXwMjUPuFI4YWbdz3ui6rC9LKvXUDN4Mdk2Z6nd+T5uJr0be6ILjnm0h7M1kuls1/LKBlsPXwMsovGsLJyfbVksc62WvCDoSqqi55In15poWRSC98sz0lCSAq4Tdxqjvag1RilksT6xYTZQHHwNcqJsssI7L9VCc5imdLoszn2iqbIiy6JkmWz1liH5DsfdjpxLhMme2B4ZO04zXVJpBzbUa7oDNXdRadTrjJosKc2EC9FLMf5IJesSU76Wmt4GkRAgD+WODnz4jOM8Qk9qz+mHJ7e7pdJ2bH+BEepEjTwswCgeUoyaT8mKbrRwMQE0vMubRMF2LZvi1z1SUqSiLg2jx4sPGbglti/pjvO+Lqm0DdtfBPA1x0o0L5ls3EWpUvQWGEXP47yBN3WtNFtNoHNLXndKV0QsWqG8yilKAR9J1se98re0Y3wAl+Aw2dczkTZywky3qrQV208wQkXHmRd3STTv/gNR9g7/rShyrlDMJ+uy2ly56iY6152qq3I9WSgk60olB3+K7z+6PUFnc7x9uQ9sRk7ATmVvbD/hnGveqcnmLlaaN8icyLjkEmSGqiiiokiKZeUuZAccylCMSpAd8MErODOB94a/74k/vClymnG6n7QPbMsUOk7N2wo3K7Znf56DIO8AjbSGzMg2Ap5EvMudSuoiPlvFcseRu6CY9Wr+Gh8ZLjFk/KagVHi/N5U+gbSz/lnbPXo3xjYtMLYKxIINZW6vhm6qLuomQQhU5nAlkaygqk29oTcqU9C9SVkvKeRzRPO+16yAz7T87LP2+48HxWZ2QbYFwVaBWLCB9JB73KGGTxTTCtjMdbvzmmXvEjreiarmSBKGoalKeYvQVfW8pNJKFSr693mDAhmiiM2huOpDtxnYJrsV801sP0GlVHemRtq3UuU6n0rlT1SlWUqkykTnXquqXkiNpPJQXlncFktV8EcJhbE7pb3PYYqzo+Bsn607TZIOgA0UiG1fvIHtD0wP6UGwwRgtQ3zXNEaRykWLlKXp9URSRF3XIZhZp6bR27ypskjqU29BHuBpIAMayaLbBJtTmdAHtm8a2GyFW2OlOAS2SqHnGiNVLKUK9YqKzz1q3pcGXGjh4M2XKqooSJJuPRJU+GXslyhaEh8qeC2+t2x6gA9ZBGqfTTvq3b6xgXCz74GY2L7FdNALmruoQs5wQ+mk6nVRa0YvzaxS4b1CWaxLYsssREm9Bg1X1BWlnC8WT8T31efFh2ivI7XPtgUnvfuyNzZDuM367HsgBjbUub3XLmDRmSQDDWK81uR2Ils0sjunXgM5S//S1HCpsiSqjIhPn3kvt81jOtA+M7E56N3+sU36mF/ssP0/4HvRJYzEKBsAAAAASUVORK5CYII=" group-title="CHILDREN",KS: KNOWLEDGE KIDS
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/52219
+#EXTM3U
+
+#EXTINF:-1 tvg-id="FOXWNYW.us" tvg-name="..Deslus (Deslus) HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/18/Fox_5_WNYW.jpg/revision/latest/scale-to-width-down/165?cb=20160716163655" group-title="ENGLISH",..Deslus(Deslus) HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/56474
+#EXTINF:-1 tvg-id="Fox11KTTV.us" tvg-name="..FOX 11 LA" tvg-logo="http://23.237.68.58/logo/ff/fox_1_us.png" group-title="ENGLISH",..FOX 11 LA
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/56473
+#EXTINF:-1 tvg-id="FOXLife.us" tvg-name="..FOX LIFE HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/082015/fox-life_0.png" group-title="ENGLISH",..FOX LIFE HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/4975
+#EXTINF:-1 tvg-id="FoxNews.us" tvg-name="..FOX  NEWS  HD" tvg-logo="https://fastly.4sqi.net/img/general/200x200/3268241_IlwZgEcIQTqozuu9HUlYD9Cs0BYe1_BaTc6rtetlJOQ.png" group-title="ENGLISH",..FOX  NEWS  HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7888
+#EXTINF:-1 tvg-id="FoxBusiness.us" tvg-name="..FOX BUSINESS HD" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/IpB/IpB_large.png" group-title="ENGLISH",..FOX BUSINESS HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7984
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="..CNBC HD" tvg-logo="https://emergentpayments.net/wp-content/uploads/2018/02/CNBC-LOGO-150x150.png" group-title="ENGLISH",..CNBC HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7872
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="..MSNBC HD" tvg-logo="http://23.237.68.58/logo/mm/msnbc_us.png" group-title="ENGLISH",..MSNBC HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7924
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="..CNN HD" tvg-logo="http://23.237.68.58/logo/cc/cnn_hd.png" group-title="ENGLISH",..CNN HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7986
+#EXTINF:-1 tvg-id="ABCNews24.au" tvg-name="..ABC NEWS HD" tvg-logo="http://23.237.68.58/logo/aa/abc_news.png" group-title="ENGLISH",..ABC NEWS HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7912
+#EXTINF:-1 tvg-id="ABC7KABCTV.us" tvg-name="..ABC (West) | HD  Los Angeles" tvg-logo="http://23.237.68.58/logo/aa/abc.png" group-title="ENGLISH",..ABC (West) | HD  Los Angeles
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/30425
+#EXTINF:-1 tvg-id="ABCWABC.us" tvg-name="..ABC 7 (NYC) HD" tvg-logo="http://23.237.68.58/logo/aa/abc_7.png" group-title="ENGLISH",..ABC 7 (NYC) HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7902
+#EXTINF:-1 tvg-id="ABC8WFAA.us" tvg-name="..ABC 8 HD (Dallas)" tvg-logo="https://cdn1.edgedatg.com/aws/assets/cp/web/abc/images/ABC-Default3-2x.png" group-title="ENGLISH",..ABC 8 HD (Dallas)
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/87516
+#EXTINF:-1 tvg-id="BusinessNewsNetworkBloomberg.ca" tvg-name="..BNN" tvg-logo="http://23.237.68.58/logo/bb/bnn_ca.png" group-title="ENGLISH",..BNN
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/5033
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="..BLOOMBERG HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bloomberg_News_logo.png/220px-Bloomberg_News_logo.png" group-title="ENGLISH",..BLOOMBERG HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7904
+#EXTINF:-1 tvg-id="" tvg-name="..CBSN NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/CBSN_channel_Logo.png/120px-CBSN_channel_Logo.png" group-title="ENGLISH",..CBSN NEWS
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/30424
+#EXTINF:-1 tvg-id="PBSBostonWGBH.us" tvg-name="..PBS" tvg-logo="http://23.237.68.58/logo/pp/pbs.png" group-title="ENGLISH",..PBS
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/150389
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="..BBC AMERICA" tvg-logo="https://sc.dish.com/shared/images/station-logos/bbca.png" group-title="ENGLISH",..BBC AMERICA
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/30418
+#EXTINF:-1 tvg-id="RTUS.ru" tvg-name="..RT News" tvg-logo="http://23.237.68.58/logo/rr/rt_ru_english.png" group-title="ENGLISH",..RT News
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148954
+#EXTINF:-1 tvg-id="RTInternational.ru" tvg-name="..RT AMERICA HD" tvg-logo="http://23.237.68.58/logo/rr/rt_ru_english.png" group-title="ENGLISH",..RT AMERICA HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/53248
+#EXTINF:-1 tvg-id="RTDocEnglish.ru" tvg-name="..RT Documentary" tvg-logo="http://23.237.68.58/logo/rr/rt_doc_ru.png" group-title="ENGLISH",..RT Documentary
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148953
+#EXTINF:-1 tvg-id="CBS.us" tvg-name="..CBS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="ENGLISH",..CBS HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7987
+#EXTINF:-1 tvg-id="" tvg-name="..CBS 11 HD (Dallas)" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDRrIbwBVlBkDsh1M0FKJ5g2EhnB2A80Smrfw=s48-mo-c-c0xffffffff-rj-k-no" group-title="ENGLISH",..CBS 11 HD (Dallas)
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/87517
+#EXTINF:-1 tvg-id="CBSWCCO.us" tvg-name="..CBS WCCO MINNEAPOLIS CH4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/WCCO_CBS_4_logo.png/220px-WCCO_CBS_4_logo.png" group-title="ENGLISH",..CBS WCCO MINNEAPOLIS CH4
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/52966
+#EXTINF:-1 tvg-id="NBCKARE.us" tvg-name="..NBC 11 MINNEAPOLIS" tvg-logo="http://23.237.68.58/logo/nn/nbc_us_hd.png" group-title="ENGLISH",..NBC 11 MINNEAPOLIS
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/56470
+#EXTINF:-1 tvg-id="TCM.uk" tvg-name="..TCM UK" tvg-logo="http://23.237.68.58/logo/tt/tcm_ca.png" group-title="ENGLISH",..TCM UK
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15389
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="..HGTV EAST" tvg-logo="http://23.237.68.58/logo/hh/hgtv_us.png" group-title="ENGLISH",..HGTV EAST
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7917
+#EXTINF:-1 tvg-id="BET.us" tvg-name="..BET HD" tvg-logo="http://23.237.68.58/logo/bb/bet_us.png" group-title="ENGLISH",..BET HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148881
+#EXTINF:-1 tvg-id="BET.us" tvg-name="..BET INTERNATIONAL" tvg-logo="http://23.237.68.58/logo/bb/bet_us_international.png" group-title="ENGLISH",..BET INTERNATIONAL
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7870
+#EXTINF:-1 tvg-id="CW.us" tvg-name="..CW (CENTRAL PA) HD" tvg-logo="http://23.237.68.58/logo/cc/cw_us.png" group-title="ENGLISH",..CW (CENTRAL PA) HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7906
+#EXTINF:-1 tvg-id="OprahWinfreyNetwork.us" tvg-name="..OWN US" tvg-logo="http://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/own_gold_logo.jpg" group-title="ENGLISH",..OWN US
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/31010
+#EXTINF:-1 tvg-id="VH1.us" tvg-name="..VH1" tvg-logo="http://23.237.68.58/logo/vv/vh1_global.png" group-title="ENGLISH",..VH1
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/52962
+#EXTINF:-1 tvg-id="WomensEntertainment.us" tvg-name="..WE TV HD" tvg-logo="http://23.237.68.58/logo/ww/we_tv_us.png" group-title="ENGLISH",..WE TV HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/52961
+#EXTINF:-1 tvg-id="TVLandEast.us" tvg-name="..TV LAND" tvg-logo="http://23.237.68.58/logo/tt/tv_land_us.png" group-title="ENGLISH",..TV LAND
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/52963
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="..TNT EAST" tvg-logo="http://23.237.68.58/logo/tt/tnt_es.png" group-title="ENGLISH",..TNT EAST
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7901
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="..TNT WEST" tvg-logo="http://23.237.68.58/logo/tt/tnt_us.png" group-title="ENGLISH",..TNT WEST
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/52967
+#EXTINF:-1 tvg-id="FOXKMSP.us" tvg-name="..FOX 9 MINNEAPLOIS" tvg-logo="https://media.fox9.com/lakana-fox-global/theme/images/kmsp/logo-fox-9-minneapolis-kmsp-alt.png" group-title="ENGLISH",..FOX 9 MINNEAPLOIS
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/56471
+#EXTINF:-1 tvg-id="FOXWJW.us" tvg-name="..FOX 8  HD (Cleaveland)" tvg-logo="http://23.237.68.58/logo/ff/fox_8.png" group-title="ENGLISH",..FOX 8  HD (Cleaveland)
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/87527
+#EXTINF:-1 tvg-id="FOXKDFW.us" tvg-name=".. FOX 4 HD (Dallas)" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mC4wj1LyCdLp5l6juI26DSGDmdHpzwHnu8D6Q=s288-mo-c-c0xffffffff-rj-k-no" group-title="ENGLISH",.. FOX 4 HD (Dallas)
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/87518
+#EXTINF:-1 tvg-id="Fox4MoreKDFI.us" tvg-name="..FOX 4 MORE HD (Dallas)" tvg-logo="http://23.237.68.58/logo/ff/fox_4.png" group-title="ENGLISH",..FOX 4 MORE HD (Dallas)
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/87519
+#EXTINF:-1 tvg-id="" tvg-name="..NBC 5 HD (Dallas)" tvg-logo="http://23.237.68.58/logo/nn/nbc_5.png" group-title="ENGLISH",..NBC 5 HD (Dallas)
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/87520
+#EXTINF:-1 tvg-id="WeatherChannel.us" tvg-name="..The WEATHER CHANEL" tvg-logo="http://23.237.68.58/logo/tt/the_weather_channel_us.png" group-title="ENGLISH",..The WEATHER CHANEL
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/30426
+#EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-name="..AMERICAN HEROS CHANNEL" tvg-logo="http://23.237.68.58/logo/aa/ahc_us.png" group-title="ENGLISH",..AMERICAN HEROS CHANNEL
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7869
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="..AL JAZEERA NEWS ENGLISH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSczTqgipy8dVaOMy8yRvOZo7eonHsPWKDWm9Ze4rVuPzSSGFxArQ" group-title="ENGLISH",..AL JAZEERA NEWS ENGLISH
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/52970
+#EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="..DESTINATION AMERICA HD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/333.png" group-title="ENGLISH",..DESTINATION AMERICA HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/57423
+#EXTINF:-1 tvg-id="EEntertainment.us" tvg-name="..E! _ENTERTAINMENT" tvg-logo="http://images-mysky.com.ph.s3.amazonaws.com/production/plans-and-bundles/1430726351_e-hd.png" group-title="ENGLISH",..E! _ENTERTAINMENT
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15495
+#EXTINF:-1 tvg-id="EEntertainment.us" tvg-name="..E! NETWORK HD US" tvg-logo="http://images-mysky.com.ph.s3.amazonaws.com/production/plans-and-bundles/1430726351_e-hd.png" group-title="ENGLISH",..E! NETWORK HD US
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7908
+#EXTINF:-1 tvg-id="ElRey.us" tvg-name="..EL REY NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/El_Rey_Network.png" group-title="ENGLISH",..EL REY NETWORK
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7863
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="..A&E" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0022/5028/brand.gif?itok=bO-w4Sr7" group-title="ENGLISH",..A&E
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7918
+#EXTINF:-1 tvg-id="ReelzChannel.us" tvg-name="..REELZ" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/082015/untitled-1_32.png?itok=SSAb_C5Y" group-title="ENGLISH",..REELZ
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7847
+#EXTINF:-1 tvg-id="DoItYourselfNetwork.us" tvg-name="..DIY NETWORK" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052016/untitled-1_241.png?itok=p5-8cr4e" group-title="ENGLISH",..DIY NETWORK
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7864
+#EXTINF:-1 tvg-id="LifetimeNetwork.us" tvg-name="..LIFE TIME" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0023/0517/brand.gif?itok=idFNXQCE" group-title="ENGLISH",..LIFE TIME
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7849
+#EXTINF:-1 tvg-id="BounceTV.us" tvg-name="..BOUNCE TV" tvg-logo="https://image.pitchbook.com/IPMFpESfFFLUjg6zZqRqdqOe1eD1501604389607_200x200" group-title="ENGLISH",..BOUNCE TV
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/67142
+#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="..TRAVEL CHANNEL HD" tvg-logo="https://services.tegrazone.com/sites/default/files/app-icon/travelchannel_appicon.png" group-title="ENGLISH",..TRAVEL CHANNEL HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/59255
+#EXTINF:-1 tvg-id="Historia.ca" tvg-name="..HISTORY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/07/History_channel_us.png/200px-History_channel_us.png" group-title="ENGLISH",..HISTORY CHANNEL HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7852
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="..DISCOVERY CHANNEL HD" tvg-logo="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/30/d6/88/30d688d4585a8c5cb8be6f920d884e51.png" group-title="ENGLISH",..DISCOVERY CHANNEL HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7889
+#EXTINF:-1 tvg-id="DiscoveryScience.us" tvg-name="..DISCOVERY SCIENCE HD" tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png" group-title="ENGLISH",..DISCOVERY SCIENCE HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7907
+#EXTINF:-1 tvg-id="DiscoveryVelocity.us" tvg-name="..DISCOVERY VELOCITY" tvg-logo="http://cdn.realscreen.com/wp/wp-content/uploads/2011/04/Velocity.jpg?3e2962" group-title="ENGLISH",..DISCOVERY VELOCITY
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7848
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name=".. INVESTIGATION DISCOVERY WEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/ID_Canada_Logo.png" group-title="ENGLISH",.. INVESTIGATION DISCOVERY WEST
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7850
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="..INVESTIGATION DISCOVERY EAST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/InvestigationDiscovery.png/200px-InvestigationDiscovery.png" group-title="ENGLISH",..INVESTIGATION DISCOVERY EAST
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/52965
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="..ANIMAL PLANET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/190px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="ENGLISH",..ANIMAL PLANET HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7868
+#EXTINF:-1 tvg-id="NatGeoWild.us" tvg-name="..NAT GEO WILD HD" tvg-logo="https://sc.dish.com/shared/images/station-logos/natgw.png" group-title="ENGLISH",..NAT GEO WILD HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7959
+#EXTINF:-1 tvg-id="NationalGeographic.si" tvg-name="..NATIONAL GEOGRAPHIC" tvg-logo="http://www.typophile.com/sites/default/files/old-images/National_Geographic_logo_5676.jpg" group-title="ENGLISH",..NATIONAL GEOGRAPHIC
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7899
+#EXTINF:-1 tvg-id="TurnerClassicMovies.ca" tvg-name="..TURNERCLASSICMOVIES" tvg-logo="https://sc.dish.com/shared/images/station-logos/tcm.png" group-title="ENGLISH",..TURNERCLASSICMOVIES
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15391
+#EXTINF:-1 tvg-id="Syfy.us" tvg-name="..SYFY HD US" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-1_608.png" group-title="ENGLISH",..SYFY HD US
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7910
+#EXTINF:-1 tvg-id="TLC.us" tvg-name="..TLC HD" tvg-logo="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/404/2018/03/02112944/2000px-TLC_Logo.svg_-200x200.png" group-title="ENGLISH",..TLC HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7914
+#EXTINF:-1 tvg-id="TVOne.us" tvg-name="..TV ONE HD US" tvg-logo="https://yt3.ggpht.com/a/AGF-l7-DPdCi-F0Ocy2reLpiiA4xkh0rGh8Bkzwa_A=s48-mo-c-c0xffffffff-rj-k-no" group-title="ENGLISH",..TV ONE HD US
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/154601
+#EXTINF:-1 tvg-id="NewEnglandCableNews.us" tvg-name="..NECN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/NECN_Logo_2015.png" group-title="ENGLISH",..NECN
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/59287
+#EXTINF:-1 tvg-id="FX.us" tvg-name="..FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/200px-FX_International_logo.svg.png" group-title="ENGLISH",..FX
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7859
+#EXTINF:-1 tvg-id="FXX.us" tvg-name="..FXX HD" tvg-logo="http://3.bp.blogspot.com/-Wq7ygV849h0/UhQt0dkqM8I/AAAAAAAAbkU/kvciLhNbx3c/s1600/logo+fxx.jpg" group-title="ENGLISH",..FXX HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7886
+#EXTINF:-1 tvg-id="GameShowNetwork.us" tvg-name="..GAME SHOW NETWORK (GSN) | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/63/GSN_logo_2015.svg/150px-GSN_logo_2015.svg.png" group-title="ENGLISH",..GAME SHOW NETWORK (GSN) | HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7858
+#EXTINF:-1 tvg-id="INDIEplex.us" tvg-name="..IFC HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/032018/untitled-1_417.png" group-title="ENGLISH",..IFC HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7851
+#EXTINF:-1 tvg-id="Hallmark.us" tvg-name="..HALLMARK CHANNEL HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_246.png" group-title="ENGLISH",..HALLMARK CHANNEL HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7857
+#EXTINF:-1 tvg-id="HallmarkDrama.us" tvg-name="..HALLMARK DRAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/Hallmark_Drama_Logo.png" group-title="ENGLISH",..HALLMARK DRAMA
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/52973
+#EXTINF:-1 tvg-id="HallmarkMoviesMysteries.us" tvg-name="..HALLMARK MOVIES & MYSTERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hallmark_movies_mysteries.png/440px-Hallmark_movies_mysteries.png" group-title="ENGLISH",..HALLMARK MOVIES & MYSTERIES
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/52974
+#EXTINF:-1 tvg-id="Spike.us" tvg-name="..SPIKE HD" tvg-logo="https://seeklogo.com/images/1/5-spike-logo-F787FD7151-seeklogo.com.png" group-title="ENGLISH",..SPIKE HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7878
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="..USA NETWORK HD" tvg-logo="https://seeklogo.com/images/U/USA_Network-logo-E8CE6707D7-seeklogo.com.gif" group-title="ENGLISH",..USA NETWORK HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7874
+#EXTINF:-1 tvg-id="Viceland.us" tvg-name="..VICELAND HD" tvg-logo="https://lhtcbroadband.com/wp-content/uploads/2018/02/Viceland.png" group-title="ENGLISH",..VICELAND HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7920
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="..COMEDY CENTRAL" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/032011/comedycentral_1-line.jpg" group-title="ENGLISH",..COMEDY CENTRAL
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7985
+#EXTINF:-1 tvg-id="truTV.us" tvg-name="..TRU TV" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0018/2215/brand.gif?itok=SyrrPX6F" group-title="ENGLISH",..TRU TV
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/30428
+#EXTINF:-1 tvg-id="5StarMax.us" tvg-name="..5 STAR MAX" tvg-logo="http://nlciptv.com/wp-content/uploads/2018/03/Cinemax-5-Star.jpg" group-title="ENGLISH",..5 STAR MAX
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7871
+#EXTINF:-1 tvg-id="QVC.us" tvg-name="..QVC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/QVC.svg/200px-QVC.svg.png" group-title="ENGLISH",..QVC HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/165768
+#EXTINF:-1 tvg-id="CMT.us" tvg-name="..CMT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/CMT_2017.png/800px-CMT_2017.png" group-title="ENGLISH",..CMT
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/80993
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="..MTV" tvg-logo="http://www.vector-logo.net/logo_preview/eps/m/mtv.png" group-title="ENGLISH",..MTV
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7921
+#EXTINF:-1 tvg-id="MTVDance.uk" tvg-name=".. MTV_DANCE" tvg-logo="http://epg4you.com/logos/mtvdance.png" group-title="ENGLISH",.. MTV_DANCE
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15454
+#EXTINF:-1 tvg-id="MTVClassic.uk" tvg-name=".. MTV_CLASSIC" tvg-logo="http://epg4you.com/logos/mtvclassic.png" group-title="ENGLISH",.. MTV_CLASSIC
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15455
+#EXTINF:-1 tvg-id="MTVMusic.uk" tvg-name=".. MTV MUSIC" tvg-logo="http://epg4you.com/logos/mtvmusic.png" group-title="ENGLISH",.. MTV MUSIC
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15452
+#EXTINF:-1 tvg-id="MTVRocks.uk" tvg-name=".. MTV_ROCKS" tvg-logo="http://epg4you.com/logos/mtvrocks.png" group-title="ENGLISH",.. MTV_ROCKS
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15451
+#EXTINF:-1 tvg-id="MTVBase.uk" tvg-name=".. MTV_BASE" tvg-logo="http://epg4you.com/logos/mtvbase.png" group-title="ENGLISH",.. MTV_BASE
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15456
+#EXTINF:-1 tvg-id="" tvg-name="------Canadian------" tvg-logo="https://i.ytimg.com/an_webp/kRPGPAnPNa8/mqdefault_6s.webp?du=3000&sqp=CJOzoeMF&rs=AOn4CLCz5n0S_ntII6HFxcnvTUPTB2Lo7w" group-title="ENGLISH",------Canadian------
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/19485
+#EXTINF:-1 tvg-id="Cp24.ca" tvg-name="''CP24 HD *****" tvg-logo="http://sportinglife10k.ca/toronto/wp-content/uploads/2017/11/cp24-logo.jpg" group-title="ENGLISH",''CP24 HD *****
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/5115
+#EXTINF:-1 tvg-id="CablePulse24.ca" tvg-name="''CP24 HD ***" tvg-logo="http://sportinglife10k.ca/toronto/wp-content/uploads/2017/11/cp24-logo.jpg" group-title="ENGLISH",''CP24 HD ***
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7919
+#EXTINF:-1 tvg-id="Cp24.ca" tvg-name="..CP24 HD" tvg-logo="http://sportinglife10k.ca/toronto/wp-content/uploads/2017/11/cp24-logo.jpg" group-title="ENGLISH",..CP24 HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/5020
+#EXTINF:-1 tvg-id="LifetimeMovies.us" tvg-name="''LIFETIME MOVIE NETWORK HD" tvg-logo="https://assets.digicorus.corusdigitaldev.com/wp-content/uploads/sites/4/2018/05/31153650/Lifetime_NavLogo_72x72.png" group-title="ENGLISH",''LIFETIME MOVIE NETWORK HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/21113
+#EXTINF:-1 tvg-id="ABCSpark.ca" tvg-name="''ABC SPARK CANADA" tvg-logo="http://23.237.68.58/logo/aa/abc%20Spark.png" group-title="ENGLISH",''ABC SPARK CANADA
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/52222
+#EXTINF:-1 tvg-id="CBCNews.ca" tvg-name="''CBC NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/CBC_News_Logo.svg/175px-CBC_News_Logo.svg.png" group-title="ENGLISH",''CBC NEWS HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/5031
+#EXTINF:-1 tvg-id="CBC.ca" tvg-name="''CBC TORONTO HD" tvg-logo="http://23.237.68.58/logo/cc/cbc.png" group-title="ENGLISH",''CBC TORONTO HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/5028
+#EXTINF:-1 tvg-id="CBCOttawa.ca" tvg-name="''CBC OTTAWA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CBC_Television_2009.svg/120px-CBC_Television_2009.svg.png" group-title="ENGLISH",''CBC OTTAWA
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/21132
+#EXTINF:-1 tvg-id="CBCCBMTMontreal.ca" tvg-name="''CBC MONTREAL HD" tvg-logo="http://23.237.68.58/logo/cc/cbc.png" group-title="ENGLISH",''CBC MONTREAL HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/4996
+#EXTINF:-1 tvg-id="CBUT.ca" tvg-name="''CBC VANCOUVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CBC_Television_2009.svg/120px-CBC_Television_2009.svg.png" group-title="ENGLISH",''CBC VANCOUVER
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/21131
+#EXTINF:-1 tvg-id="CBCNews.ca" tvg-name="''CBC NEWS NETWORK HD" tvg-logo="http://23.237.68.58/logo/cc/cbc_news_network_hd.png" group-title="ENGLISH",''CBC NEWS NETWORK HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/51852
+#EXTINF:-1 tvg-id="CBCCBWT.ca" tvg-name="''CBC WINNIPEG HD" tvg-logo="http://23.237.68.58/logo/cc/cbc.png" group-title="ENGLISH",''CBC WINNIPEG HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/51853
+#EXTINF:-1 tvg-id="CBCHalifaxCBHT.ca" tvg-name="''CBC HALIFAX HD" tvg-logo="http://23.237.68.58/logo/cc/cbc.png" group-title="ENGLISH",''CBC HALIFAX HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/52223
+#EXTINF:-1 tvg-id="CBCCBRTCalgary.ca" tvg-name="''CBC CALGARY HD" tvg-logo="http://23.237.68.58/logo/cc/cbc.png" group-title="ENGLISH",''CBC CALGARY HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/5026
+#EXTINF:-1 tvg-id="CBCCBXTEdmonton.ca" tvg-name="''CBC EDMONTON HD" tvg-logo="http://23.237.68.58/logo/cc/cbc.png" group-title="ENGLISH",''CBC EDMONTON HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/56475
+#EXTINF:-1 tvg-id="CBCCBKT.ca" tvg-name="''CBC FREDERICTON HD" tvg-logo="http://23.237.68.58/logo/cc/cbc.png" group-title="ENGLISH",''CBC FREDERICTON HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/56478
+#EXTINF:-1 tvg-id="CBCCBKT.ca" tvg-name="''CBC REGINA HD" tvg-logo="http://23.237.68.58/logo/cc/cbc.png" group-title="ENGLISH",''CBC REGINA HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/56479
+#EXTINF:-1 tvg-id="CBC.ca" tvg-name="''CBC WINDSOR HD" tvg-logo="http://23.237.68.58/logo/cc/cbc.png" group-title="ENGLISH",''CBC WINDSOR HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/56477
+#EXTINF:-1 tvg-id="Global.ca" tvg-name="''GLOBAL NEWS" tvg-logo="http://23.237.68.58/logo/gg/global_ca_news.png" group-title="ENGLISH",''GLOBAL NEWS
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/57402
+#EXTINF:-1 tvg-id="GlobalCalgary.ca" tvg-name="''GLOBAL CALGARY" tvg-logo="http://23.237.68.58/logo/gg/global_ca_calgary.png" group-title="ENGLISH",''GLOBAL CALGARY
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/57404
+#EXTINF:-1 tvg-id="GlobalCITV.ca" tvg-name="''GLOBAL EDMONTON" tvg-logo="http://23.237.68.58/logo/gg/global_ca_edmonton.png" group-title="ENGLISH",''GLOBAL EDMONTON
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/57403
+#EXTINF:-1 tvg-id="GlobalCIIIDT41.ca" tvg-name="''GLOBAL TORONTO" tvg-logo="http://23.237.68.58/logo/gg/global_ca_toronto.png" group-title="ENGLISH",''GLOBAL TORONTO
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/21090
+#EXTINF:-1 tvg-id="GlobalBC.ca" tvg-name="''GLOBAL VANCOUVER HD" tvg-logo="http://23.237.68.58/logo/gg/global_ca_bc.png" group-title="ENGLISH",''GLOBAL VANCOUVER HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/57424
+#EXTINF:-1 tvg-id="GlobalMontrealCKMI.ca" tvg-name="''GLOBAL MONTREAL HD" tvg-logo="http://23.237.68.58/logo/gg/global_ca_montreal.png" group-title="ENGLISH",''GLOBAL MONTREAL HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/69471
+#EXTINF:-1 tvg-id="GlobalHalifaxCIHF.ca" tvg-name="''GLOBAL HALIFAX" tvg-logo="http://23.237.68.58/logo/gg/global_ca_halifax.png" group-title="ENGLISH",''GLOBAL HALIFAX
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/51865
+#EXTINF:-1 tvg-id="CTVNews.ca" tvg-name="''CTV NEWS HD" tvg-logo="http://23.237.68.58/logo/cc/ctv_news_channel.png" group-title="ENGLISH",''CTV NEWS HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/5019
+#EXTINF:-1 tvg-id="CTVToronto.ca" tvg-name="''CTV TORONTO HD" tvg-logo="http://23.237.68.58/logo/cc/ctv_ca_news_toronto.png" group-title="ENGLISH",''CTV TORONTO HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/21111
+#EXTINF:-1 tvg-id="CTVOttawa.ca" tvg-name="''CTV OTTAWA" tvg-logo="http://23.237.68.58/logo/cc/ctv_ca.png" group-title="ENGLISH",''CTV OTTAWA
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/21112
+#EXTINF:-1 tvg-id="CTV2Ottawa.ca" tvg-name="''CTV2 OTTAWA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/CTV_Two.svg/200px-CTV_Two.svg.png" group-title="ENGLISH",''CTV2 OTTAWA
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/21109
+#EXTINF:-1 tvg-id="CTVToronto.ca" tvg-name="''CTV (KITCHENER) HD" tvg-logo="http://23.237.68.58/logo/cc/ctv_ca_news.png" group-title="ENGLISH",''CTV (KITCHENER) HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/56480
+#EXTINF:-1 tvg-id="CTV2.ca" tvg-name="''CTV TWO BARRIE HD" tvg-logo="https://business.netflash.net/wp-content/uploads/sites/2/2016/06/Netflash-IPTV-ctvtwobarrie.png" group-title="ENGLISH",''CTV TWO BARRIE HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/56481
+#EXTINF:-1 tvg-id="CTVVancouver.ca" tvg-name="''CTV VANCOUVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/CTV_logo_%281%29.svg/200px-CTV_logo_%281%29.svg.png" group-title="ENGLISH",''CTV VANCOUVER
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/21110
+#EXTINF:-1 tvg-id="CTV2Vancouver.ca" tvg-name="''CTV 2 VANCOUVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/CTV_logo_%281%29.svg/200px-CTV_logo_%281%29.svg.png" group-title="ENGLISH",''CTV 2 VANCOUVER
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/21114
+#EXTINF:-1 tvg-id="CTVHalifaxCJCH.ca" tvg-name="'' CTV HALIFAX" tvg-logo="http://23.237.68.58/logo/cc/ctv_ca.png" group-title="ENGLISH",'' CTV HALIFAX
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/51864
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="''CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png" group-title="ENGLISH",''CNN
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/5027
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="''CNN INTERNATIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cnn_logo_red_background.png/150px-Cnn_logo_red_background.png" group-title="ENGLISH",''CNN INTERNATIONAL
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/21122
+#EXTINF:-1 tvg-id="CBSWCBS.us" tvg-name="''CBS EAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="ENGLISH",''CBS EAST
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/21130
+#EXTINF:-1 tvg-id="CBSKCBS.us" tvg-name="''CBS WEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="ENGLISH",''CBS WEST
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/21129
+#EXTINF:-1 tvg-id="BBCCanada.ca" tvg-name="''BBC CANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/BBC_Canada_logo.svg/250px-BBC_Canada_logo.svg.png" group-title="ENGLISH",''BBC CANADA
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/21140
+#EXTINF:-1 tvg-id="BBCWorld.ca" tvg-name="''BBC WORLD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/200px-BBC_World_News_red.svg.png" group-title="ENGLISH",''BBC WORLD NEWS
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/21139
+#EXTINF:-1 tvg-id="OMNI1.ca" tvg-name="''OMNI 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Omni-Television.svg/200px-Omni-Television.svg.png" group-title="ENGLISH",''OMNI 1
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/21058
+#EXTINF:-1 tvg-id="OMNI2.ca" tvg-name="''OMNI 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Omni-Television.svg/200px-Omni-Television.svg.png" group-title="ENGLISH",''OMNI 2
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/4982
+#EXTINF:-1 tvg-id="FoxNews.us" tvg-name="''FOX NEWS HD" tvg-logo="http://23.237.68.58/logo/ff/fox_news_channel.png" group-title="ENGLISH",''FOX NEWS HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/51860
+#EXTINF:-1 tvg-id="CityTVToronto.ca" tvg-name="''CITY TORONTO" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022011/citytv_logo.png?itok=GWa-oEKV" group-title="ENGLISH",''CITY TORONTO
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/21127
+#EXTINF:-1 tvg-id="CityTVVancouver.ca" tvg-name="''CITY VANCOUVER" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Logo_of_CITY_TV.png/200px-Logo_of_CITY_TV.png" group-title="ENGLISH",''CITY VANCOUVER
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/21126
+#EXTINF:-1 tvg-id="CityTVWinnipeg.ca" tvg-name="'' CITY WINNIPEG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Logo_of_CITY_TV.png/200px-Logo_of_CITY_TV.png" group-title="ENGLISH",'' CITY WINNIPEG
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/5029
+#EXTINF:-1 tvg-id="" tvg-name="'' CITY MONTREAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Logo_of_CITY_TV.png/200px-Logo_of_CITY_TV.png" group-title="ENGLISH",'' CITY MONTREAL
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/51862
+#EXTINF:-1 tvg-id="CityTVSaskatchewan.ca" tvg-name="'' CITY TV SASKATCHEWAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Logo_of_CITY_TV.png/200px-Logo_of_CITY_TV.png" group-title="ENGLISH",'' CITY TV SASKATCHEWAN
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/51861
+#EXTINF:-1 tvg-id="YesTV.ca" tvg-name="''YES TV ALBERTA HD" tvg-logo="http://23.237.68.58/logo/yy/yes_tv_ca.png" group-title="ENGLISH",''YES TV ALBERTA HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/51856
+#EXTINF:-1 tvg-id="TVO.ca" tvg-name="''TVO HD" tvg-logo="http://23.237.68.58/logo/tt/tvokids_ca.png" group-title="ENGLISH",''TVO HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/4951
+#EXTINF:-1 tvg-id="Vision.ca" tvg-name="''VISION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Vision_TV_logo.svg/100px-Vision_TV_logo.svg.png" group-title="ENGLISH",''VISION
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/21022
+#EXTINF:-1 tvg-id="YesTV.ca" tvg-name="''YES TV (Ontario) | HD" tvg-logo="http://23.237.68.58/logo/yy/yes_tv_ca.png" group-title="ENGLISH",''YES TV (Ontario) | HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/4945
+#EXTINF:-1 tvg-id="TurnerClassicMovies.ca" tvg-name="''TCM HD" tvg-logo="http://23.237.68.58/logo/tt/tcm_ca.png" group-title="ENGLISH",''TCM HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/4968
+#EXTINF:-1 tvg-id="NatGeoWild.ca" tvg-name="''NAT GEO WILD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/180px-Natgeologo.svg.png" group-title="ENGLISH",''NAT GEO WILD HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/21064
+#EXTINF:-1 tvg-id="DiscoveryChannel.ca" tvg-name="''DISCOVERY CANADA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5QhlW9ueJ_oj-wYXzJZGOTGhiQk20FjhWZkKOtKEvPbtAWkzC" group-title="ENGLISH",''DISCOVERY CANADA
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/5017
+#EXTINF:-1 tvg-id="DiscoveryScience.ca" tvg-name="''DISCOVERY SCIENCE CANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Discovery_Science_Canada_2011.PNG/120px-Discovery_Science_Canada_2011.PNG" group-title="ENGLISH",''DISCOVERY SCIENCE CANADA
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/21104
+#EXTINF:-1 tvg-id="DiscoveryVelocity.ca" tvg-name="''DISCOVERY VELOCITY HD*" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5QhlW9ueJ_oj-wYXzJZGOTGhiQk20FjhWZkKOtKEvPbtAWkzC" group-title="ENGLISH",''DISCOVERY VELOCITY HD*
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/4950
+#EXTINF:-1 tvg-id="DocumentaryChannel.ca" tvg-name="''DOCUMENTARY" tvg-logo="https://www.fibreop.ca/binaries/content/gallery/common_en/tv/channel-logos/doc_channel-300.png/doc_channel-300.png/bellaliant%3Ax-small" group-title="ENGLISH",''DOCUMENTARY
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/5013
+#EXTINF:-1 tvg-id="CottageLife.ca" tvg-name="''COTTAGE LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Cottage_Life_Logo.svg/230px-Cottage_Life_Logo.svg.png" group-title="ENGLISH",''COTTAGE LIFE
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/21118
+#EXTINF:-1 tvg-id="CHCH.ca" tvg-name="''CHCH" tvg-logo="http://23.237.68.58/logo/cc/chch_hamilton.png" group-title="ENGLISH",''CHCH
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/4984
+#EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="''COMEDY GOLD HD" tvg-logo="http://23.237.68.58/logo/cc/comedy_gold.png" group-title="ENGLISH",''COMEDY GOLD HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/5024
+#EXTINF:-1 tvg-id="AnimalPlanet.ca" tvg-name="''ANIMAL PLANET US" tvg-logo="http://23.237.68.58/logo/aa/animal_planet_ca.png" group-title="ENGLISH",''ANIMAL PLANET US
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/5036
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="''LOVE NATURE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png" group-title="ENGLISH",''LOVE NATURE HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/88266
+#EXTINF:-1 tvg-id="ComedyNetwork.ca" tvg-name="''COMEDY WEST" tvg-logo="http://23.237.68.58/logo/cc/comedy_tv_us.png" group-title="ENGLISH",''COMEDY WEST
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/5023
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="''COMEDY EAST HD" tvg-logo="http://23.237.68.58/logo/cc/comedy_tv_us.png" group-title="ENGLISH",''COMEDY EAST HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/5025
+#EXTINF:-1 tvg-id="DoItYourselfNetwork.ca" tvg-name="''DIY NETWORK" tvg-logo="http://23.237.68.58/logo/dd/diy_network_ca.png" group-title="ENGLISH",''DIY NETWORK
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/21100
+#EXTINF:-1 tvg-id="NBCWNBC.us" tvg-name="''NBC EAST" tvg-logo="http://23.237.68.58/logo/nn/nbc_us.png" group-title="ENGLISH",''NBC EAST
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/21063
+#EXTINF:-1 tvg-id="NBCKCRA.us" tvg-name="''NBC WEST" tvg-logo="http://23.237.68.58/logo/nn/nbc_us.png" group-title="ENGLISH",''NBC WEST
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/21062
+#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="''FOOD NETWORK" tvg-logo="http://23.237.68.58/logo/ff/food_network_ca.png" group-title="ENGLISH",''FOOD NETWORK
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/5008
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="''24 KITCHEN" tvg-logo="http://epg4you.com/logos/24kitchen.png" group-title="ENGLISH",''24 KITCHEN
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26606
+#EXTINF:-1 tvg-id="CookingChannel.ca" tvg-name="''COOKING CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Cooking_Channel_Canada.png/200px-Cooking_Channel_Canada.png" group-title="ENGLISH",''COOKING CHANNEL
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/21120
+#EXTINF:-1 tvg-id="EEntertainment.ca" tvg-name="''E! CANADA" tvg-logo="http://23.237.68.58/logo/ee/e_global_us.png" group-title="ENGLISH",''E! CANADA
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/21099
+#EXTINF:-1 tvg-id="HistoryChannel.ca" tvg-name="''HISTORY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/History_TV18_logo.png/150px-History_TV18_logo.png" group-title="ENGLISH",''HISTORY CHANNEL HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/5000
+#EXTINF:-1 tvg-id="History2.ca" tvg-name="''H2 CANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/H2_TV_logo.svg/150px-H2_TV_logo.svg.png" group-title="ENGLISH",''H2 CANADA
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/21085
+#EXTINF:-1 tvg-id="HLN.ca" tvg-name="''HLN" tvg-logo="http://23.237.68.58/logo/hh/hln_us.png" group-title="ENGLISH",''HLN
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/4999
+#EXTINF:-1 tvg-id="Slice.ca" tvg-name="''SLICE" tvg-logo="http://23.237.68.58/logo/ss/slice_ca.png" group-title="ENGLISH",''SLICE
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/4990
+#EXTINF:-1 tvg-id="TLC.ca" tvg-name="''TLC" tvg-logo="http://23.237.68.58/logo/tt/tlc_us.png" group-title="ENGLISH",''TLC
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/4956
+#EXTINF:-1 tvg-id="WNetwork.ca" tvg-name="''WOMENS NETWORK" tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/w_network.png" group-title="ENGLISH",''WOMENS NETWORK
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/4948
+#EXTINF:-1 tvg-id="FXX.ca" tvg-name="''FXX CANADA" tvg-logo="https://content.prnewswire.com/images/fx-canada-EN_110113.jpg" group-title="ENGLISH",''FXX CANADA
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/4976
+#EXTINF:-1 tvg-id="GameShowNetwork.us" tvg-name="''GAME SHOW NETWORK TV CA" tvg-logo="http://23.237.68.58/logo/gg/game_show_ca.png" group-title="ENGLISH",''GAME SHOW NETWORK TV CA
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/5005
+#EXTINF:-1 tvg-id="InvestigationDiscovery.ca" tvg-name="''ID CANADA" tvg-logo="http://23.237.68.58/logo/ii/investigation_discovery_us.png" group-title="ENGLISH",''ID CANADA
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/21079
+#EXTINF:-1 tvg-id="IndependentFilmChannel.ca" tvg-name="''IFC" tvg-logo="http://23.237.68.58/logo/ii/ifc_ca.png" group-title="ENGLISH",''IFC
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/21078
+#EXTINF:-1 tvg-id="WGNAmerica.us" tvg-name="''WGN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/WGN_9_logo.svg/220px-WGN_9_logo.svg.png" group-title="ENGLISH",''WGN
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/21018
+#EXTINF:-1 tvg-id="WorldFishingNetwork.ca" tvg-name="''WORLD FISHING NETWORK. US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png" group-title="ENGLISH",''WORLD FISHING NETWORK. US
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/21019
+#EXTINF:-1 tvg-id="HGTV.ca" tvg-name="''HGTV" tvg-logo="http://23.237.68.58/logo/hh/hgtv_ca.png" group-title="ENGLISH",''HGTV
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/5001
+#EXTINF:-1 tvg-id="" tvg-name="''V MONTREAL HD" tvg-logo="" group-title="ENGLISH",''V MONTREAL HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/51863
+#EXTINF:-1 tvg-id="NTVCJON.ca" tvg-name="''NTV" tvg-logo="http://23.237.68.58/logo/nn/ntv_ca.png" group-title="ENGLISH",''NTV
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/21060
+#EXTINF:-1 tvg-id="OutdoorLifeNetwork.ca" tvg-name="''OLN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/OLN_logo_2012.png/200px-OLN_logo_2012.png" group-title="ENGLISH",''OLN
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/21059
+#EXTINF:-1 tvg-id="OutTV.ca" tvg-name="''OUT TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/OutTV_3D.png/150px-OutTV_3D.png" group-title="ENGLISH",''OUT TV
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/21056
+#EXTINF:-1 tvg-id="OutdoorLifeNetwork.ca" tvg-name="''OUTDOOR LIFE NETWORK" tvg-logo="https://www.oln.ca/wp-content/themes/oln.ca/images/common/logo-oln.png" group-title="ENGLISH",''OUTDOOR LIFE NETWORK
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/163985
+#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="''OUTDOOR CHANNEL" tvg-logo="http://23.237.68.58/logo/oo/outdoor_channel.png" group-title="ENGLISH",''OUTDOOR CHANNEL
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/164972
+#EXTINF:-1 tvg-id="OprahWinfreyNetwork.ca" tvg-name="''OWN" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/IkK/IkK_large.png" group-title="ENGLISH",''OWN
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/4995
+#EXTINF:-1 tvg-id="Peachtree.ca" tvg-name="''PEACH TREE TV" tvg-logo="https://vignette.wikia.nocookie.net/frontierville/images/9/94/Peach_Tree_Sapling-icon.png" group-title="ENGLISH",''PEACH TREE TV
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/4993
+#EXTINF:-1 tvg-id="TheShoppingChannel.ca" tvg-name="''THE SHOPPING CHANNEL" tvg-logo="https://media.glassdoor.com/sqll/438202/the-shopping-channel-squarelogo-1418683243283.png" group-title="ENGLISH",''THE SHOPPING CHANNEL
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/21051
+#EXTINF:-1 tvg-id="SmithsonianChannel.us" tvg-name="''SMITHSONIAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Smithsonian_Channel.PNG/200px-Smithsonian_Channel.PNG" group-title="ENGLISH",''SMITHSONIAN
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/21049
+#EXTINF:-1 tvg-id="Space.ca" tvg-name="''SPACE" tvg-logo="http://www.info-crespo.com.ar/img/canales/space_arg.jpg" group-title="ENGLISH",''SPACE
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/4981
+#EXTINF:-1 tvg-id="Spike.uk" tvg-name="''SPIKE" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052017/untitled-1_192.png?itok=oZeW6XGd" group-title="ENGLISH",''SPIKE
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/4980
+#EXTINF:-1 tvg-id="TravelEscape.ca" tvg-name="''TRAVEL ESCAPE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/T%2BE_2011.svg/150px-T%2BE_2011.svg.png" group-title="ENGLISH",''TRAVEL ESCAPE
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/21032
+#EXTINF:-1 tvg-id="WNetwork.ca" tvg-name="''W NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/W_Network_Logo.svg/100px-W_Network_Logo.svg.png" group-title="ENGLISH",''W NETWORK
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/21020
+#EXTINF:-1 tvg-id="SilverScreenClassics.ca" tvg-name="''SILVER SCREEN CLASSICS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Silverscreenclassics.svg/150px-Silverscreenclassics.svg.png" group-title="ENGLISH",''SILVER SCREEN CLASSICS
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/21050
+#EXTINF:-1 tvg-id="TheWeatherNetwork.ca" tvg-name="''THE WEATHER NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/TWN_Logo_2011.svg/230px-TWN_Logo_2011.svg.png" group-title="ENGLISH",''THE WEATHER NETWORK
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/21037
+#EXTINF:-1 tvg-id="Daystar.us" tvg-name="''DAYSTAR TV" tvg-logo="http://23.237.68.58/logo/dd/daystar_tv_network_ca.png" group-title="ENGLISH",''DAYSTAR TV
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/52220
+#EXTINF:-1 tvg-id="WorldFishingNetwork.ca" tvg-name="''WORLD FISHING NETWORK - WFN" tvg-logo="http://23.237.68.58/logo/ww/world_fishing_network.png" group-title="ENGLISH",''WORLD FISHING NETWORK - WFN
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/52218
+#EXTINF:-1 tvg-id="" tvg-name="''AHC CANADA" tvg-logo="http://23.237.68.58/logo/aa/ahc_ca.png" group-title="ENGLISH",''AHC CANADA
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/52960
+#EXTINF:-1 tvg-id="Film4.uk" tvg-name="----------   UK   ----------" tvg-logo="http://epg4you.com/logos/filmfourhd.png" group-title="ENGLISH",----------   UK   ----------
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15480
+#EXTINF:-1 tvg-id="CNN.uk" tvg-name="UK: CNN HD" tvg-logo="http://epg4you.com/logos/cnn.png" group-title="ENGLISH",UK: CNN HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15513
+#EXTINF:-1 tvg-id="CNN.uk" tvg-name="UK: CNN_NEWS" tvg-logo="http://epg4you.com/logos/cnn.png" group-title="ENGLISH",UK: CNN_NEWS
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15512
+#EXTINF:-1 tvg-id="FOX.uk" tvg-name="UK: FOX HD" tvg-logo="http://epg4you.com/logos/fox.png" group-title="ENGLISH",UK: FOX HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15477
+#EXTINF:-1 tvg-id="" tvg-name="UK: DW NEWS" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDQPvr-r82FrRDcTOW0REZOGOV_nRQ5pPop3g=s48-mo-c-c0xffffffff-rj-k-no" group-title="ENGLISH",UK: DW NEWS
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/69469
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="UK: BBC ONE HD" tvg-logo="http://epg4you.com/logos/bbcone.png" group-title="ENGLISH",UK: BBC ONE HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15548
+#EXTINF:-1 tvg-id="BBC.pl" tvg-name="UK: BBC THREE HD" tvg-logo="http://pmcdeadline2.files.wordpress.com/2014/03/bbc-three__140306105035.jpg" group-title="ENGLISH",UK: BBC THREE HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15546
+#EXTINF:-1 tvg-id="BBC4.uk" tvg-name="UK: BBC_FOUR" tvg-logo="http://epg4you.com/logos/bbcfour.png" group-title="ENGLISH",UK: BBC_FOUR
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15549
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="UK: BBC TWO HD" tvg-logo="http://epg4you.com/logos/bbctwo.png" group-title="ENGLISH",UK: BBC TWO HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15545
+#EXTINF:-1 tvg-id="BBCWorld.ca" tvg-name="UK: BBC_WORLD_NEWS" tvg-logo="http://epg4you.com/logos/bbcworldnews.png" group-title="ENGLISH",UK: BBC_WORLD_NEWS
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15544
+#EXTINF:-1 tvg-id="CBSAction.uk" tvg-name="UK: CBS ACTION" tvg-logo="http://epg4you.com/logos/cbsaction.png" group-title="ENGLISH",UK: CBS ACTION
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15520
+#EXTINF:-1 tvg-id="CBSReality.uk" tvg-name="UK: CBS_REALITY HD" tvg-logo="http://epg4you.com/logos/cbs.png" group-title="ENGLISH",UK: CBS_REALITY HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15521
+#EXTINF:-1 tvg-id="" tvg-name="UK: 3E" tvg-logo="http://epg4you.com/logos/3e.png" group-title="ENGLISH",UK: 3E
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15556
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="UK: CHANNEL_4" tvg-logo="http://epg4you.com/logos/channel4.png" group-title="ENGLISH",UK: CHANNEL_4
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15516
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="UK: CHANNEL_5" tvg-logo="http://epg4you.com/logos/channel5.png" group-title="ENGLISH",UK: CHANNEL_5
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15515
+#EXTINF:-1 tvg-id="Dave.uk" tvg-name="UK: DAVE" tvg-logo="http://epg4you.com/logos/dave.png" group-title="ENGLISH",UK: DAVE
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15507
+#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="UK: FOOD NETWORK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwvdAIHwn2AFyoY4HSfzXLEzxsqhuu0d_HEsemshDguFDjdlK_" group-title="ENGLISH",UK: FOOD NETWORK
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15478
+#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="UK: DISCCOVERY_TURBO" tvg-logo="http://epg4you.com/logos/discoveryturbo.png" group-title="ENGLISH",UK: DISCCOVERY_TURBO
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15506
+#EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="UK: DISCOVERY HISTORY" tvg-logo="http://epg4you.com/logos/discoveryhistory.png" group-title="ENGLISH",UK: DISCOVERY HISTORY
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15503
+#EXTINF:-1 tvg-id="DiscoveryInvestigation.fr" tvg-name="UK: DISCOVERY INVESTIGATION" tvg-logo="http://epg4you.com/logos/investigationdiscoveryxtra.png" group-title="ENGLISH",UK: DISCOVERY INVESTIGATION
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15501
+#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="UK: DISCOVERY_SCIENCE" tvg-logo="http://epg4you.com/logos/discoveryscience.png" group-title="ENGLISH",UK: DISCOVERY_SCIENCE
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15500
+#EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-name="UK: NAT GEO WILD" tvg-logo="http://epg4you.com/logos/natgeowildhd.png" group-title="ENGLISH",UK: NAT GEO WILD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15449
+#EXTINF:-1 tvg-id="NatGeo.uk" tvg-name="UK: NATIONAL GEOGRAPHIC" tvg-logo="http://epg4you.com/logos/nationalgeographic.png" group-title="ENGLISH",UK: NATIONAL GEOGRAPHIC
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15448
+#EXTINF:-1 tvg-id="DisneyChannel.uk" tvg-name="UK: DISCOVERY HD" tvg-logo="http://epg4you.com/logos/discoverychannelhd.png" group-title="ENGLISH",UK: DISCOVERY HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15504
+#EXTINF:-1 tvg-id="Eden.uk" tvg-name="UK: EDEN" tvg-logo="http://epg4you.com/logos/edenplus1.png" group-title="ENGLISH",UK: EDEN
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15492
+#EXTINF:-1 tvg-id="GOLD.uk" tvg-name="UK: GOLD" tvg-logo="http://epg4you.com/logos/gold.png" group-title="ENGLISH",UK: GOLD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15476
+#EXTINF:-1 tvg-id="GoodFood.uk" tvg-name="UK: GOOD_FOOD" tvg-logo="http://epg4you.com/logos/goodfood.png" group-title="ENGLISH",UK: GOOD_FOOD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15475
+#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="UK: ITV Be" tvg-logo="http://epg4you.com/logos/itv.png" group-title="ENGLISH",UK: ITV Be
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15468
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="UK: ITV 4" tvg-logo="http://epg4you.com/logos/itv4.png" group-title="ENGLISH",UK: ITV 4
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15464
+#EXTINF:-1 tvg-id="ITV1Anglia.uk" tvg-name="UK: ITV_1" tvg-logo="http://epg4you.com/logos/itv.png" group-title="ENGLISH",UK: ITV_1
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15467
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="UK: ITV_2" tvg-logo="http://epg4you.com/logos/itv2hd.png" group-title="ENGLISH",UK: ITV_2
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15466
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="UK: ITV_3" tvg-logo="http://epg4you.com/logos/itv3hd.png" group-title="ENGLISH",UK: ITV_3
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15465
+#EXTINF:-1 tvg-id="W.uk" tvg-name="UK: W" tvg-logo="http://epg4you.com/logos/w.png" group-title="ENGLISH",UK: W
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15377
+#EXTINF:-1 tvg-id="TLC.uk" tvg-name="UK: TLC" tvg-logo="http://epg4you.com/logos/tlc.png" group-title="ENGLISH",UK: TLC
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15386
+#EXTINF:-1 tvg-id="Spike.uk" tvg-name="UK: SPIKE" tvg-logo="http://epg4you.com/logos/spike.png" group-title="ENGLISH",UK: SPIKE
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15392
+#EXTINF:-1 tvg-id="VH1.uk" tvg-name="UK: VH1" tvg-logo="http://epg4you.com/logos/vh1.png" group-title="ENGLISH",UK: VH1
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15380
+#EXTINF:-1 tvg-id="Tinypop.uk" tvg-name="UK: TINY POP" tvg-logo="http://epg4you.com/logos/tinypop.png" group-title="ENGLISH",UK: TINY POP
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15387
+#EXTINF:-1 tvg-id="Yesterday.uk" tvg-name="UK: YESTERDAY" tvg-logo="http://epg4you.com/logos/yesterday.png" group-title="ENGLISH",UK: YESTERDAY
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15373
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="UK: MUTV" tvg-logo="http://epg4you.com/logos/manchesterunitedtv.png" group-title="ENGLISH",UK: MUTV
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15450
+#EXTINF:-1 tvg-id="More4.uk" tvg-name="UK: MORE4" tvg-logo="http://epg4you.com/logos/more4.png" group-title="ENGLISH",UK: MORE4
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15460
+#EXTINF:-1 tvg-id="LondonLive.uk" tvg-name="UK: LONDON_LIVE" tvg-logo="http://epg4you.com/logos/londonlive.png" group-title="ENGLISH",UK: LONDON_LIVE
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15461
+#EXTINF:-1 tvg-id="PickTV.uk" tvg-name="UK: PICK_TV" tvg-logo="http://epg4you.com/logos/pick.png" group-title="ENGLISH",UK: PICK_TV
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15441
+#EXTINF:-1 tvg-id="Quest.uk" tvg-name="UK: QUEST" tvg-logo="http://epg4you.com/logos/quest.png" group-title="ENGLISH",UK: QUEST
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15439
+#EXTINF:-1 tvg-id="" tvg-name="UK: RTE ONE" tvg-logo="http://epg4you.com/logos/rteonehd.png" group-title="ENGLISH",UK: RTE ONE
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15435
+#EXTINF:-1 tvg-id="" tvg-name="UK: RTE TWO" tvg-logo="http://epg4you.com/logos/rte2hd.png" group-title="ENGLISH",UK: RTE TWO
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15434
+#EXTINF:-1 tvg-id="Sky1.uk" tvg-name="UK: SKY ONE" tvg-logo="http://epg4you.com/logos/sky1.png" group-title="ENGLISH",UK: SKY ONE
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15405
+#EXTINF:-1 tvg-id="Sky2.uk" tvg-name="UK: SKY TWO" tvg-logo="http://epg4you.com/logos/sky2.png" group-title="ENGLISH",UK: SKY TWO
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15394
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="UK: SKY NEWS HD" tvg-logo="http://www.iptvforall.net/logo/ss/sky_uk_news_ie.png" group-title="ENGLISH",UK: SKY NEWS HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/154497
+#EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="UK: SKY ATLANTIC" tvg-logo="https://www.pinknews.co.uk/images/2012/05/broadcasting_sky_atlantic_hd_logo.jpg" group-title="ENGLISH",UK: SKY ATLANTIC
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15421
+#EXTINF:-1 tvg-id="SkyLiving.uk" tvg-name="UK: SKY LIVING HD" tvg-logo="http://epg4you.com/logos/skyliving-clivebesle.png" group-title="ENGLISH",UK: SKY LIVING HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15412
+#EXTINF:-1 tvg-id="SkyHits.uk" tvg-name="UK: SKY CINEMA HITS" tvg-logo="http://epg4you.com/logos/skycinemahitshd.png" group-title="ENGLISH",UK: SKY CINEMA HITS
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15416
+#EXTINF:-1 tvg-id="SkyAction.uk" tvg-name="UK: SKY CINEMA Action & Adventure HD" tvg-logo="http://epg4you.com/logos/skycinemaactionandadventure.png" group-title="ENGLISH",UK: SKY CINEMA Action & Adventure HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15372
+#EXTINF:-1 tvg-id="SkyComedy.uk" tvg-name="UK: SKY CINEMA COMEDY HD" tvg-logo="http://epg4you.com/logos/skycinemacomedyhd.png" group-title="ENGLISH",UK: SKY CINEMA COMEDY HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15413
+#EXTINF:-1 tvg-id="SkyFamily.uk" tvg-name="UK: SKY CINEMA FAMILY HD" tvg-logo="http://epg4you.com/logos/skycinemafamily.png" group-title="ENGLISH",UK: SKY CINEMA FAMILY HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15409
+#EXTINF:-1 tvg-id="Showcase.uk" tvg-name="UK: SKY_MOVIES_SHOWCASE" tvg-logo="http://epg4you.com/logos/skycinema.png" group-title="ENGLISH",UK: SKY_MOVIES_SHOWCASE
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15407
+#EXTINF:-1 tvg-id="SkyCrimeThriller.uk" tvg-name="UK: SKY CINEMA CRIME & THRILLER HD" tvg-logo="http://epg4you.com/logos/skycinemathriller.png" group-title="ENGLISH",UK: SKY CINEMA CRIME & THRILLER HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/15410
