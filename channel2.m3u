@@ -1,14 +1,1586 @@
-#EXTINF:-1 tvg-id="" tvg-name="...BEIN SPORTS  ñ *** HD" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mCqslON0BzWnmYJUHNWKv6yngy-qaJuziWZHg=s288-mo-c-c0xffffffff-rj-k-no" group-title="DEPORTES",...BEIN SPORTS  ñ *** HD
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/88420
-#EXTINF:-1 tvg-id="" tvg-name="...BEIN LALIGA" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mCK8YSK7CjSp-2_-BCKWIBGSIqFt6KeNElIUg=s48-mo-c-c0xffffffff-rj-k-no" group-title="DEPORTES",...BEIN LALIGA
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/87458
-#EXTINF:-1 tvg-id="" tvg-name="...BEIN LALIGA 123" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAUiccmtKXIbcQznO7SxTPQmqwnFE_ypeJK-Q=s48-mo-c-c0xffffffff-rj-k-no" group-title="DEPORTES",...BEIN LALIGA 123
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/87460
-#EXTINF:-1 tvg-id="beINLaLiga.es" tvg-name="...BEIN SPORTS LIGA FHD" tvg-logo="http://epg4you.com/logos/beinsportslaliga.png" group-title="DEPORTES",...BEIN SPORTS LIGA FHD
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/31019
-#EXTINF:-1 tvg-id="beINSports.us" tvg-name="...BEIN SPORTS ESPN HD" tvg-logo="http://epg4you.com/logos/beinsports.png" group-title="DEPORTES",...BEIN SPORTS ESPN HD
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/31020
-#EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="...ESPN DEPORTE" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052016/untitled-1_242.png" group-title="DEPORTES",...ESPN DEPORTE
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7913
-#EXTINF:-1 tvg-id="" tvg-name="...GOL TV ECUADOR" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mCK8YSK7CjSp-2_-BCKWIBGSIqFt6KeNElIUg=s48-mo-c-c0xffffffff-rj-k-no" group-title="DEPORTES",...GOL TV ECUADOR
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/87459
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xZ8JzlZ.png" group-title="USA",Sign Me TV
+https://vcnswee.teleosmedia.com/stream/swee/signmetv/seglist_720p.m3u8
+
+#EXTINF:-1,HBO2 [360p]
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1,HBO2 [720p]
+http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
+
+
+#EXTM3U
+#EXTINF:-1,US - A&E HD
+http://voxtv.dynns.com:8000/live/USA/USA/2247.m3u8
+#EXTINF:-1,US - US ABC HD
+http://voxtv.dynns.com:8000/live/USA/USA/2248.m3u8
+#EXTINF:-1,US - ABC NEWS HD
+http://voxtv.dynns.com:8000/live/USA/USA/2249.m3u8
+#EXTINF:-1,US - AFN SPORTS 1
+http://voxtv.dynns.com:8000/live/USA/USA/2250.m3u8
+#EXTINF:-1,US - AFN SPORTS 2
+http://voxtv.dynns.com:8000/live/USA/USA/2251.m3u8
+#EXTINF:-1,US - AMAZING DISCOVERIES HD
+http://voxtv.dynns.com:8000/live/USA/USA/2253.m3u8
+#EXTINF:-1,US - AMC HD
+http://voxtv.dynns.com:8000/live/USA/USA/2252.m3u8
+#EXTINF:-1,US - ANIMAL PLANET HD
+http://voxtv.dynns.com:8000/live/USA/USA/2254.m3u8
+#EXTINF:-1,US - BEIN SPORTS HD
+http://voxtv.dynns.com:8000/live/USA/USA/2352.m3u8
+#EXTINF:-1,US - BLOOMBERG EUROPE
+http://voxtv.dynns.com:8000/live/USA/USA/2256.m3u8
+#EXTINF:-1,US - BLOOMBERG TV
+http://voxtv.dynns.com:8000/live/USA/USA/2257.m3u8
+#EXTINF:-1,US - Boomerang
+http://voxtv.dynns.com:8000/live/USA/USA/2258.m3u8
+#EXTINF:-1,US - BRAVO HD
+http://voxtv.dynns.com:8000/live/USA/USA/2259.m3u8
+#EXTINF:-1,US - BYU TV
+http://voxtv.dynns.com:8000/live/USA/USA/2255.m3u8
+#EXTINF:-1,US - C-SPAN 1
+http://voxtv.dynns.com:8000/live/USA/USA/2260.m3u8
+#EXTINF:-1,US - C-SPAN 2
+http://voxtv.dynns.com:8000/live/USA/USA/2261.m3u8
+#EXTINF:-1,US - C-SPAN 3
+http://voxtv.dynns.com:8000/live/USA/USA/2262.m3u8
+#EXTINF:-1,US - CA SPORTSNET 360 HD
+http://voxtv.dynns.com:8000/live/USA/USA/2263.m3u8
+#EXTINF:-1,US - CARTOON NETWORK
+http://voxtv.dynns.com:8000/live/USA/USA/2270.m3u8
+#EXTINF:-1,US - CBS
+http://voxtv.dynns.com:8000/live/USA/USA/2264.m3u8
+#EXTINF:-1,US - CBSN  HD
+http://voxtv.dynns.com:8000/live/USA/USA/2265.m3u8
+#EXTINF:-1,US - CINEMAX 5
+http://voxtv.dynns.com:8000/live/USA/USA/2271.m3u8
+#EXTINF:-1,US - CINEMAX ACTION HD
+http://voxtv.dynns.com:8000/live/USA/USA/2272.m3u8
+#EXTINF:-1,US - CINEMAX ACTIONMAX EAST
+http://voxtv.dynns.com:8000/live/USA/USA/2273.m3u8
+#EXTINF:-1,US - CINEMAX EAST
+http://voxtv.dynns.com:8000/live/USA/USA/2274.m3u8
+#EXTINF:-1,US - CINEMAX MOREMAX
+http://voxtv.dynns.com:8000/live/USA/USA/2275.m3u8
+#EXTINF:-1,US - C N B C
+http://voxtv.dynns.com:8000/live/USA/USA/2266.m3u8
+#EXTINF:-1,US - CNN HD
+http://voxtv.dynns.com:8000/live/USA/USA/2267.m3u8
+#EXTINF:-1,UK - COMEDY CENTRAL HD
+http://voxtv.dynns.com:8000/live/USA/USA/2276.m3u8
+#EXTINF:-1,US - CW HD
+http://voxtv.dynns.com:8000/live/USA/USA/2268.m3u8
+#EXTINF:-1,US - CW11
+http://voxtv.dynns.com:8000/live/USA/USA/2269.m3u8
+#EXTINF:-1,US - DISCOVERY HD
+http://voxtv.dynns.com:8000/live/USA/USA/2280.m3u8
+#EXTINF:-1,US - DISCOVERY HD SHOWCASE
+http://voxtv.dynns.com:8000/live/USA/USA/2279.m3u8
+#EXTINF:-1,US - DISCOVERY SCIENCE HD
+http://voxtv.dynns.com:8000/live/USA/USA/2281.m3u8
+#EXTINF:-1,US - DISCOVERY VELOCITY
+http://voxtv.dynns.com:8000/live/USA/USA/2282.m3u8
+#EXTINF:-1,US - DIY NETWORK
+http://voxtv.dynns.com:8000/live/USA/USA/2277.m3u8
+#EXTINF:-1,US - DW
+http://voxtv.dynns.com:8000/live/USA/USA/2278.m3u8
+#EXTINF:-1,US - ESPN  1
+http://voxtv.dynns.com:8000/live/USA/USA/2283.m3u8
+#EXTINF:-1,US - ESPN 2
+http://voxtv.dynns.com:8000/live/USA/USA/2284.m3u8
+#EXTINF:-1,US - ESPN HD
+http://voxtv.dynns.com:8000/live/USA/USA/2285.m3u8
+#EXTINF:-1,US - STARZ CINEMA
+http://voxtv.dynns.com:8000/live/USA/USA/2337.m3u8
+#EXTINF:-1,US - STARZ COMEDY
+http://voxtv.dynns.com:8000/live/USA/USA/2338.m3u8
+#EXTINF:-1,US - STARZ EDGE HD
+http://voxtv.dynns.com:8000/live/USA/USA/2339.m3u8
+#EXTINF:-1,US - STARZ ENCORE
+http://voxtv.dynns.com:8000/live/USA/USA/2340.m3u8
+#EXTINF:-1,US - SyFy HD
+http://voxtv.dynns.com:8000/live/USA/USA/2341.m3u8
+#EXTINF:-1,US - TBS HD
+http://voxtv.dynns.com:8000/live/USA/USA/2342.m3u8
+#EXTINF:-1,US - TNT HD
+http://voxtv.dynns.com:8000/live/USA/USA/2343.m3u8
+#EXTINF:-1,US - TSN 1 HD
+http://voxtv.dynns.com:8000/live/USA/USA/2344.m3u8
+#EXTINF:-1,US - TSN 2 HD
+http://voxtv.dynns.com:8000/live/USA/USA/2345.m3u8
+#EXTINF:-1,US - TSN 3 HD
+http://voxtv.dynns.com:8000/live/USA/USA/2346.m3u8
+#EXTINF:-1,US - TSN 4 HD
+http://voxtv.dynns.com:8000/live/USA/USA/2347.m3u8
+#EXTINF:-1,US - Network HD
+http://voxtv.dynns.com:8000/live/USA/USA/2349.m3u8
+#EXTINF:-1,US - VH1 CLASSIC
+http://voxtv.dynns.com:8000/live/USA/USA/2350.m3u8
+#EXTINF:-1,US - WWE HD
+http://voxtv.dynns.com:8000/live/USA/USA/2351.m3u8
+#EXTINF:-1,US - Nick
+http://voxtv.dynns.com:8000/live/USA/USA/6101.m3u8
+#EXTINF:-1,US - Travel Channel
+http://voxtv.dynns.com:8000/live/USA/USA/6100.m3u8
+#EXTINF:-1,US - FASHION ONE HD
+http://voxtv.dynns.com:8000/live/USA/USA/2290.m3u8
+#EXTINF:-1,US - FIGHT HD
+http://voxtv.dynns.com:8000/live/USA/USA/2291.m3u8
+#EXTINF:-1,US - FIGHT SPORTS
+http://voxtv.dynns.com:8000/live/USA/USA/2292.m3u8
+#EXTINF:-1,US - FINE LIVING
+http://voxtv.dynns.com:8000/live/USA/USA/2293.m3u8
+#EXTINF:-1,US - FOOD NETWORK HD
+http://voxtv.dynns.com:8000/live/USA/USA/2294.m3u8
+#EXTINF:-1,US - FOX 43
+http://voxtv.dynns.com:8000/live/USA/USA/2286.m3u8
+#EXTINF:-1,US - FOX HD
+http://voxtv.dynns.com:8000/live/USA/USA/2299.m3u8
+#EXTINF:-1,US - FOX NEWS HD
+http://voxtv.dynns.com:8000/live/USA/USA/2295.m3u8
+#EXTINF:-1,US - FOX SPORTS 1 HD
+http://voxtv.dynns.com:8000/live/USA/USA/2296.m3u8
+#EXTINF:-1,US - FOX SPORTS 2 HD
+http://voxtv.dynns.com:8000/live/USA/USA/2297.m3u8
+#EXTINF:-1,US - FOX SPORTS 506 HD
+http://voxtv.dynns.com:8000/live/USA/USA/2298.m3u8
+#EXTINF:-1,US - FREE FORM HD
+http://voxtv.dynns.com:8000/live/USA/USA/2300.m3u8
+#EXTINF:-1,US - FUEL HD
+http://voxtv.dynns.com:8000/live/USA/USA/2301.m3u8
+#EXTINF:-1,US - FX HD
+http://voxtv.dynns.com:8000/live/USA/USA/2289.m3u8
+#EXTINF:-1,US - H 2
+http://voxtv.dynns.com:8000/live/USA/USA/2302.m3u8
+#EXTINF:-1,US - HALLMARK
+http://voxtv.dynns.com:8000/live/USA/USA/2311.m3u8
+#EXTINF:-1,US - HBO COMEDY
+http://voxtv.dynns.com:8000/live/USA/USA/2303.m3u8
+#EXTINF:-1,US - HBO EAST
+http://voxtv.dynns.com:8000/live/USA/USA/2304.m3u8
+#EXTINF:-1,US - HBO HD
+http://voxtv.dynns.com:8000/live/USA/USA/2305.m3u8
+#EXTINF:-1,US - HBO SIGNATURE
+http://voxtv.dynns.com:8000/live/USA/USA/2306.m3u8
+#EXTINF:-1,US - HBO ZONE
+http://voxtv.dynns.com:8000/live/USA/USA/2307.m3u8
+#EXTINF:-1,US - HGTV HD
+http://voxtv.dynns.com:8000/live/USA/USA/2308.m3u8
+#EXTINF:-1,US - HIFI
+http://voxtv.dynns.com:8000/live/USA/USA/2309.m3u8
+#EXTINF:-1,US - HISTORY HD
+http://voxtv.dynns.com:8000/live/USA/USA/2312.m3u8
+#EXTINF:-1,US - HSN YT LIVE 1080P HD
+http://voxtv.dynns.com:8000/live/USA/USA/2310.m3u8
+#EXTINF:-1,US - MBL HD
+http://voxtv.dynns.com:8000/live/USA/USA/2313.m3u8
+#EXTINF:-1,US - MLB NETWORK
+http://voxtv.dynns.com:8000/live/USA/USA/2314.m3u8
+#EXTINF:-1,US - MSNBC HD
+http://voxtv.dynns.com:8000/live/USA/USA/2315.m3u8
+#EXTINF:-1,US - MTV ROCKS
+http://voxtv.dynns.com:8000/live/USA/USA/2316.m3u8
+#EXTINF:-1,US - NATIONAL GEOGRAPHIC
+http://voxtv.dynns.com:8000/live/USA/USA/2323.m3u8
+#EXTINF:-1,US - NBA HD
+http://voxtv.dynns.com:8000/live/USA/USA/2317.m3u8
+#EXTINF:-1,US - NBC
+http://voxtv.dynns.com:8000/live/USA/USA/2318.m3u8
+#EXTINF:-1,US - CBSN HD
+http://voxtv.dynns.com:8000/live/USA/USA/2319.m3u8
+#EXTINF:-1,US - USA Network HD
+http://voxtv.dynns.com:8000/live/USA/USA/2324.m3u8
+#EXTINF:-1,US - NFL NETWORK 1
+http://voxtv.dynns.com:8000/live/USA/USA/2353.m3u8
+#EXTINF:-1,US - NFL NETWORK 1080i
+http://voxtv.dynns.com:8000/live/USA/USA/2320.m3u8
+#EXTINF:-1,US - NFL NETWORK HD
+http://voxtv.dynns.com:8000/live/USA/USA/2321.m3u8
+#EXTINF:-1,US - NHL NETWORK
+http://voxtv.dynns.com:8000/live/USA/USA/2322.m3u8
+#EXTINF:-1,US - OUTDOOR CHANNEL HD
+http://voxtv.dynns.com:8000/live/USA/USA/2325.m3u8
+#EXTINF:-1,US - PAC-12 ARIZONA
+http://voxtv.dynns.com:8000/live/USA/USA/2326.m3u8
+#EXTINF:-1,US - PAC-12 BAY AREA
+http://voxtv.dynns.com:8000/live/USA/USA/2327.m3u8
+#EXTINF:-1,US - PAC-12 LOS ANGELES
+http://voxtv.dynns.com:8000/live/USA/USA/2328.m3u8
+#EXTINF:-1,US - PAC-12 OREGON
+http://voxtv.dynns.com:8000/live/USA/USA/2329.m3u8
+#EXTINF:-1,US - PAC-12 WASHINGTON
+http://voxtv.dynns.com:8000/live/USA/USA/2330.m3u8
+#EXTINF:-1,US - SHOWTIME 2
+http://voxtv.dynns.com:8000/live/USA/USA/2332.m3u8
+#EXTINF:-1,US - SHOW TIME HD
+http://voxtv.dynns.com:8000/live/USA/USA/2333.m3u8
+#EXTINF:-1,US - SHOWTIME WEST
+http://voxtv.dynns.com:8000/live/USA/USA/2334.m3u8
+#EXTINF:-1,US - SMILE OF A CHILD
+http://voxtv.dynns.com:8000/live/USA/USA/2335.m3u8
+#EXTINF:-1,US - SPIKE HD
+http://voxtv.dynns.com:8000/live/USA/USA/2336.m3u8
+
+
+#EXTINF:-1,USA
+http://23.237.22.82:8086/udp/127.0.0.1:56054
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",tvg-id=ext group-title=MoviesAMERICAN HORRORS
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",MoviesHBO2 [360p]
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="Movies","HBO2" [720p]
+http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",tvg-id=ext group-title=MoviesHigh Line
+http://video3.earthcam.com:1935/fecnetwork/7384.flv/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",tvg-id=ext group-title=MoviesMovee 4U
+https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
+#EXTINF:0 tvg-id="Showtime.no" group-title="Movies",tvg-id=Showtime.no group-title=MoviesShowtime
+http://80.80.160.168/live/7/2500000/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8f4fv5U.png" group-title="USA",24-7 Retro TV
+http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4TEMhxH.png" group-title="USA",30A TV
+http://30a-tv.com/my999.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="USA",30A Music
+http://30a-tv.com/music.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="USA",ABC (KABC) (PST)
+http://content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/f.m3u8?exp=1527750966&ct=c&cid=7f4366ed88e344da86947eb0fa080ec2&sig=37af99214f85e55b1dfbec4030d06a8dee848131f8be1421ef36fbbae30e5387&pbs=cc5c74a2900d47b48ce4ec207b247a2d
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="USA",ABC (WWSB) (EST)
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DhyuABZ.png" group-title="USA",ABC News (SD)
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DhyuABZ.png" group-title="USA",ABC News (HD)
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K2XHhWW.png" group-title="USA",Action Sports 4U
+https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d2o69uW.png" group-title="USA",Adventure Sports Network
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://web-cdn.blivenyc.com/generic/mee.logo-golden-trans.png" group-title="USA",AKC TV 
+https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FLKdEzZ.png" group-title="USA",America's Funniest Videos
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ENtRDds.png" group-title="USA",American Horrors
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="USA",Animal Planet*
+http://80.80.160.168/live/1/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bkikN6d.png" group-title="USA",Apple Sauce Network
+https://nimble.dashmedia.tv/onestudio/applesaucetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hSYez3V.png" group-title="USA",Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mexZF9k.png" group-title="USA",AXS TV 
+http://161.0.157.6/PLTV/88888888/224/3221226568/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tHopHL9.png" group-title="USA",Beach TV - 30A
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tHopHL9.png" group-title="USA",Beach TV - Panama City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tHopHL9.png" group-title="USA",Beach TV - Pawleys Island
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xiaJPqq.png" group-title="USA",Beauty IQ
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/4bc0e8c660c94c00afcdae21479e2b95/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EkN8yab.png" group-title="USA",BET
+http://espn.tmedia.me/cache/bet.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png" group-title="USA",Big Ten Network
+http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="USA",Bloomberg Television (Opt-1)
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="USA",Bloomberg Television (Opt-2)
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/1200px-Bravo_2017_logo.svg.png" group-title="USA",Bravo
+http://161.0.157.5/PLTV/88888888/224/3221226804/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Buzzr_%28TV_Network%29_Logo.png" group-title="USA",Buzzr
+https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/BYUtv_logo.svg/1200px-BYUtv_logo.svg.png" group-title="USA",BYUtv (SD)
+http://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_264.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/BYUtv_logo.svg/1200px-BYUtv_logo.svg.png" group-title="USA",BYUtv (HD)
+https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Wd4xnGt.png" group-title="USA",C-SPAN
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ltcivXp.png" group-title="USA",C-SPAN 2
+https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cyU21ML.png" group-title="USA",C-SPAN 3
+https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="USA",California Music Channel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AjnHVZw.png" group-title="USA",Cartoons 4U
+https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/2000px-Cartoon_Network_2004_logo.svg.png" group-title="USA",Cartoon Network (LA)
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="USA",CBS (WFOR) (EST)
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="USA",CBS (WPEC) (EST)
+http://170.250.96.20:8110/cbs.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.depauw.edu/files/resources/large_cbs-news.png" group-title="USA",CBS News (SD)
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.depauw.edu/files/resources/large_cbs-news.png" group-title="USA",CBS News (HD)
+https://www.cbsnews.com/common/video/dai_prod.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.kym-cdn.com/entries/icons/original/000/016/618/7chan___channel7_logo_by_zodia_kun-d4zfcv3.png" group-title="USA",Channel 7
+http://radio.7chan.org:8000/CH7
+
+#EXTINF:-1 tvg-logo="http://channelv6.com/images/Header/V6-logo.png" group-title="USA",Channel V6
+http://media2.stratanet.com:1935/live/mylivestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nWjAjzy.png" group-title="USA",Cheddar
+https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" group-title="USA",Classic Arts Showcase
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qq70J9t.png" group-title="USA",Classic TV 4U
+https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmtcanada.png" group-title="USA",CMT
+http://espn.tmedia.me/cache/cmt.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2000px-CNBC_logo.svg.png" group-title="USA",CNBC
+https://1674331492.rsc.cdn77.org/LS-ATL-54548-14/index.m3u8
+
+#EXTINF:-1 tvg-id="News" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png" group-title="USA",CNN (Opt-1)
+http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8
+
+#EXTINF:-1 tvg-id="News" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png" group-title="USA",CNN (Opt-2)
+https://1259541102.rsc.cdn77.org/LS-ATL-54548-9/index.m3u8
+
+#EXTINF:-1 tvg-id="News" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png" group-title="USA",CNN (Opt-3)
+http://bit.ly/2YQAxN2?.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R7gINJV.png" group-title="USA",Comedy Central
+http://espn.tmedia.me/cache/cc.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p14.zdassets.com/hc/settings_assets/667658/200059238/nUGjGiWPOdPJxcFva0eEpw-Contv-logoBig.png" group-title="USA",CONtv
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SxRzFO8.png" group-title="USA",Cooking 4U
+https://edge1.dashmedia.tv/onestudio/cooking_4u_network/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AgASU6o.png" group-title="USA",Cooking Channel
+http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f0FtDEI.png" group-title="USA",Court TV
+https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/The_CW_logo_4800x2000.png" group-title="USA",CW (WSFL) (EST)
+http://190.80.3.28/CW/CW.isml/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gAZpfDP.png" group-title="USA",Dance Music TV
+https://vcndmtv.teleosmedia.com/stream/dmtv/dmtv/seglist_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/57e016db6b8f5bbe95acde7d/t/5b620bab352f53819eb8df27/1533152171765/2017_DSTV_Logo_Silver+2.png" group-title="USA",Dancestar TV
+https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/l2O0fY1.png" group-title="USA",Darcizzle Offshore
+http://30a-tv.com/darcizzle.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/800px-Discovery_2016.svg.png" group-title="USA",Discovery Channel*
+http://80.80.160.168/live/8/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a6/Discovery_Science_2nd_variant.png" group-title="USA",Discovery Science*
+http://80.80.160.168/live/9/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png" group-title="USA",Disney Junior
+https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74/h.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p5rREUo.png" group-title="USA",Ditty TV
+https://desktop.dittytv.com/live/dittytv.stream_desktop/chunklist_w1540160005.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QNaPXLj.png" group-title="USA",Documentaries 4U
+https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mayday.is/img/showcase_docurama/dcr-branding-full.png" group-title="USA",Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ye3ckSd.png" group-title="USA",Edge Sport
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://estv.viewerlink.tv/images/nt-ESTW.png" group-title="USA",Entertainment Studios
+http://161.0.157.38/PLTV/88888888/224/3221225713/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.stickpng.com/assets/images/5847f1b0cef1014c0b5e485d.png" group-title="USA",ESPN*
+http://80.80.160.168/live/6/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.stickpng.com/assets/images/5847f1b0cef1014c0b5e485d.png" group-title="USA",ESPN (SD)
+http://espn.tmedia.me/cache/espn1_540.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.stickpng.com/assets/images/5847f1b0cef1014c0b5e485d.png" group-title="USA",ESPN (HD)
+http://espn.clinicalkey.icu/cache/espn1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png" group-title="USA",ESPN 2
+http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png" group-title="USA",ESPN 2 (SD)
+http://espn.tmedia.me/cache/espn2_540.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png" group-title="USA",ESPN 2 (HD)
+http://espn.clinicalkey.icu/cache/espn2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/1280px-ESPNews.svg.png" group-title="USA",ESPN News
+http://espn.clinicalkey.icu/cache/espnews.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1024px-ESPN_U_logo.svg.png" group-title="USA",ESPNU
+http://espn.clinicalkey.icu/cache/espnu.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/EVINE_Logo.png" group-title="USA",Evine
+https://aos01-evine.secure.footprint.net/evine/dirty/Evine_Dirty_VIDEO_1_2064000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0rfBAWY.png" group-title="USA",Exercise 4U
+https://nimble.dashmedia.tv/onestudio/exercise_4u_tv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9IlPgqf.png" group-title="USA",EZWay Network
+https://edge1.dashmedia.tv/onestudio/ezwaytv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gV2Vmr9.png" group-title="USA",FailArmy
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/zdjecie/48/60/48600faa08efc021a07e742e85bd040a233f966cb1b4346f28d23b560ce75da3.png" group-title="USA",FightBox
+http://ott-cdn.ucom.am/s86/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nLimNFX.png" group-title="USA",Filmrise Classics
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BDtkjpS.png" group-title="USA",Filmrise Crime
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ypQRBrH.png" group-title="USA",Filmrise Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_5000000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cQZdGc0.png" group-title="USA",Filmrise Movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hV46zMX.png" group-title="USA",Folk TV
+http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xjCtEPH.png" group-title="USA",Food52
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.stickpng.com/assets/images/5842f04ea6515b1e0ad75b14.png" group-title="USA",Fox (WSVN) (EST)
+http://161.0.157.51/PLTV/88888888/224/3221227013/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxBusiness.us.png" group-title="USA",Fox Business
+https://1329918864.rsc.cdn77.org/ls-54548-1/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxNews.us.png" group-title="USA",Fox News (Opt-1)
+https://1259541102.rsc.cdn77.org/LS-ATL-54548-4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxNews.us.png" group-title="USA",Fox News (Opt-2)
+https://1259541102.rsc.cdn77.org/LS-ATL-54548-4/index.m3u8
+
+#EXTINF:0 tvg-logo="http://crntalk.com/wp-content/uploads/2017/05/fox-news-radio-266x250.jpg" group-title="USA",Fox News Radio
+http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_02/large.fox-cinema-blanco.png.8267a80d9cea1d104e0a5269171d158b.png" group-title="USA",Fox Premium Cinema
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2017_02/large.fox-comedy-blanco.png.f720b00ef28d91a6cd6f93d8b2c73a74.png" group-title="USA",Fox Premium Comedy
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/93SIHbu.png" group-title="USA",Fox Premium Movies
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Fox_Sports_Racing.jpg.png" group-title="USA",Fox Sports Racing
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_of_Free_Speech_TV.png" group-title="USA",Free Speech TV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qcrsf49.png" group-title="USA",Global Fashion Channel
+https://vcnglobalfashionchannel.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xLC8ulA.png" group-title="USA",Gone Fishing
+https://edge1.dashmedia.tv/onestudio/gonefishing/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IDgT6aq.png" group-title="USA",Gone Hunting 
+https://edge1.dashmedia.tv/onestudio/hunting/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/central/images/4/44/HBO_Logo.png" group-title="USA",HBO (LA)
+http://161.0.157.50/PLTV/88888888/224/3221226127/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z8zQ2XM.png" group-title="USA",HBO 2 (LA)
+http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/HLN.us.png" group-title="USA",HLN
+https://1259541102.rsc.cdn77.org/LS-ATL-54548-7/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gh4kB7x.png" group-title="USA",Horrified TV
+https://edge1.dashmedia.tv/onestudio/horrified/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/HSN.png" group-title="USA",HSN
+https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/hsn2.png" group-title="USA",HSN 2
+https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://indiewaveentertainment.com/wp-content/uploads/2017/09/logo_square.png" group-title="USA",IndieWave
+https://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/InvestigationDiscovery.png/200px-InvestigationDiscovery.png" group-title="USA",Investigation Discovery*
+http://80.80.160.168/live/5/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CKCtZo7.png" group-title="USA",Investment Pitch
+http://www.30a-tv.com/InvPit.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1HJraea.png" group-title="USA",Jewelry Television
+http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ESnlHMY.png" group-title="USA",Kartoon Fun Time (Opt-1)
+https://edge1.dashmedia.tv/onestudio/kartoonfuntime/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ESnlHMY.png" group-title="USA",Kartoon Fun Time (Opt-2)
+https://nimble.dashmedia.tv/onestudio/kartoonfuntime/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4otJeRo.png" group-title="USA",Kathryn Raaker's World
+https://edge1.dashmedia.tv/onestudio/kathryn_raakers_world/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fEjPBk3.png" group-title="USA",Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bAYqbbz.png" group-title="USA",KLNM TV
+https://edge1.dashmedia.tv/onestudio/Decoder800/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Fkc7MuP.png" group-title="USA",Kool TV
+http://173.199.158.79:1935/roku/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KGaH3pH.png" group-title="USA",Living Outdoors 
+https://edge1.dashmedia.tv/onestudio/Living_Outdoors/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4XMEiX7.png" group-title="USA",Logo TV
+http://espn.tmedia.me/cache/logotv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Longhorn_Network_logo.svg/1280px-Longhorn_Network_logo.svg.png" group-title="USA",Longhorn Network
+http://espn.tmedia.me/cache/lghn.m3u8
+
+#EXTINF:-1 tvg-logo="http://75.146.183.54:2080/Cablecast/Public/Logos/1/MCN-Vimeo-Logo.png" group-title="USA",Metro Cable Network
+http://live.mcn6.org:8180/live/CELL-496k-270p/CELL-496k-270p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="USA",MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mobcrush.com/mobkit-page/assets/img/mc-logo-pineapple-yellow.png" group-title="USA",Mobcrush
+https://ott.mobcrush.com/hls/0/ott.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cb3fbiu.png" group-title="USA",Movee 4U 
+https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aGRIocC.png" group-title="USA",MSNBC
+https://1259541102.rsc.cdn77.org/LS-ATL-54548-15/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FOiUOeW.png" group-title="USA",MTV
+http://espn.tmedia.me/cache/mtv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="USA",Music Choice
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/WWOR_NewJersey.svg/220px-WWOR_NewJersey.svg.png" group-title="USA",My9 (WWOR) (EST)
+http://161.0.157.9/PLTV/88888888/224/3221226727/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RZKS8XS.png" group-title="USA",My Life TV
+https://edge1.dashmedia.tv/onestudio/my_life_4u/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="USA",NASA TV
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="USA",NASA TV Media
+http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="USA",NBC (WTVJ) (EST)
+http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bO6iyBk.png" group-title="USA",NBC Golf
+http://161.0.157.9/PLTV/88888888/224/3221226812/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.destinationnetwork.com/images/channel_logos/notv_logo.png" group-title="USA",New Orleans TV
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Newsmax_TV_Logo.png" group-title="USA",Newsmax TV
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/NewsNetLogo.png" group-title="USA",NewsNet
+http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/Newsy_2015_Logo.png" group-title="USA",Newsy 
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QSH4Z4p.png" group-title="USA",Nothing Scripted
+http://30a-tv.com/NothingScripted.m3u8
+
+#EXTINF:-1,RTLPASSION HD
+http://clientportaliptv.com:25500/live/islam/erstrdyfuygiuhkl/4476.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3.amazonaws.com/NRA/interrupt/nranews/images/nra-tv-logo.png" group-title="USA",NRA TV
+https://stream1.nra.tv/nratv/ngrp:nratvall/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="USA",Olympic Channel (SD)
+http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="USA",Olympic Channel (HD)
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="USA",Olympic Channel (UHD)
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OAaxN8G.png" group-title="USA",Out of Focus TV
+http://pablogott.videocdn.scaleengine.net/pablogott-live/play/ooftv1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Pac-12_logo.svg/1200px-Pac-12_logo.svg.png" group-title="USA",PAC-12 Arizona 
+https://p12a.pac-12.com/v1/master/b6988789cc420a523cc8393d9c7e629c76fece84/p12a-2019-01/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Pac-12_logo.svg/1200px-Pac-12_logo.svg.png" group-title="USA",PAC-12 Bay Area 
+https://p12b.pac-12.com/v1/master/b6988789cc420a523cc8393d9c7e629c76fece84/p12b-2019-01/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Pac-12_logo.svg/1200px-Pac-12_logo.svg.png" group-title="USA",PAC-12 Los Angeles  
+https://p12l.pac-12.com/v1/master/b6988789cc420a523cc8393d9c7e629c76fece84/p12l-2019-01/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Pac-12_logo.svg/1200px-Pac-12_logo.svg.png" group-title="USA",PAC-12 Mountain
+https://p12m.pac-12.com/v1/master/b6988789cc420a523cc8393d9c7e629c76fece84/p12m-2019-01/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Pac-12_logo.svg/1200px-Pac-12_logo.svg.png" group-title="USA",PAC-12 National
+https://p12n.pac-12.com/v1/master/b6988789cc420a523cc8393d9c7e629c76fece84/p12n-2019-01/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Pac-12_logo.svg/1200px-Pac-12_logo.svg.png" group-title="USA",PAC-12 Oregon 
+https://p12o.pac-12.com/v1/master/b6988789cc420a523cc8393d9c7e629c76fece84/p12o-2019-01/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Pac-12_logo.svg/1200px-Pac-12_logo.svg.png" group-title="USA",PAC-12 Washington  
+https://p12w.pac-12.com/v1/master/b6988789cc420a523cc8393d9c7e629c76fece84/p12w-2019-01/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/108.png" group-title="USA",Paramount Network 
+http://espn.tmedia.me/cache/spikeus.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EA2rA7R.png" group-title="USA",PBS (WPBT) (EST)
+http://190.80.3.28/PBS/PBS.isml/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://pets.tv/files/2018/09/pets_logo-300x132.png" group-title="USA",Pets.TV
+http://161.0.157.38/PLTV/88888888/224/3221226145/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Planet_Green_Logo.png" group-title="USA",Planet Green*
+http://80.80.160.168/live/4/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cR9FCTg.png" group-title="USA",Planet Cannabis
+https://edge1.dashmedia.tv/onestudio/planetshopping/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xPmRZ19.png" group-title="USA",Pop
+https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/QVC_logo_2015.png" group-title="USA",QVC (Opt-1)
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/cd5bfeab75a34ba18301490388fd4daa/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/QVC_logo_2015.png" group-title="USA",QVC (Opt-2)
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vGaDz1I.png" group-title="USA",QVC 2
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/1af4a53fda904f6c90a4389c8fe92dc0/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aRYqSyp.png" group-title="USA",Radio U
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:radioutv_all/rightbrainmedia-live-109/radioutv1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="USA",Red Bull TV (Opt-1)
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="USA",Red Bull TV (Opt-2)
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="USA",Red Bull TV (UHD)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zZRKYMd.png" group-title="USA",Regalia TV
+https://edge1.dashmedia.tv/onestudio/regalia_network/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.revntv.com/media/pcon/revn-logo-color-socialmedia-108.png" group-title="USA",Rev'n
+http://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y9JXK2I.png" group-title="USA",Right Now TV
+https://edge1.dashmedia.tv/onestudio/rightnowtv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/RTD-TV-logo.png/220px-RTD-TV-logo.png" group-title="USA",RT Documentary (Opt-1)
+https://rt-doc.secure.footprint.net/1101-inadv-qidx-2k_v5.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/RTD-TV-logo.png/220px-RTD-TV-logo.png" group-title="USA",RT Documentary (Opt-2)
+http://ott-cdn.ucom.am/s93/index.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gh8UdCR.png" group-title="USA",Runway TV
+http://runway.videocdn.scaleengine.net/runway-iphone/play/runway/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sDGZCpL.png" group-title="USA",SafeTV4U2
+http://18.191.91.130:1935/live/safetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RX6YusQ.png" group-title="USA",Sci-fi 4U
+https://edge1.dashmedia.tv/onestudio/SciFiTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yfEizcN.png" group-title="USA",Screamfest
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1rYbXzR.png" group-title="USA",SEC Network
+http://espn.tmedia.me/cache/sec.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZNw2dfV.png" group-title="USA",She TV
+https://edge1.dashmedia.tv/onestudio/She_Tv_Network/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://akamaicdn.shoplc.com/landing/product-recalls/ShopLC--DeliveringJoy.png" group-title="USA",Shop LC
+https://dpfbqenlgkzdh.cloudfront.net/shoplc_backup/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/woxovZh.png" group-title="USA",Shopping 4U
+https://edge1.dashmedia.tv/onestudio/shopping_4u/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.sidewalkstv.com/wp-content/uploads/2013/10/sw-tep-large-300x125.png" group-title="USA",Sidewalks
+http://30a-tv.com/sidewalks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xZ8JzlZ.png" group-title="USA",Sign Me TV
+https://vcnswee.teleosmedia.com/stream/swee/signmetv/seglist_720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RSHCC2y.png" group-title="USA",Spydar TV
+https://nimble.dashmedia.tv/onestudio/spydar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="USA",Stadium
+https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e7EDq02.png" group-title="USA",Tastemade
+https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/718x404_2002829/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tastytradepublicmedia.s3.amazonaws.com/assets/logos/tt-logo-original-05e5dd25021223dff0203915ecdc9375.png" group-title="USA",TastyTrade
+https://trinity-lh.akamaihd.net/i/ttmain_d@82127/index_3128_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YeSygn7.png" group-title="USA",TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+
+#EXTINF:-1 tvg-logo="http://www.scribblrs.com/wp-content/uploads/2017/07/tbs.png" group-title="USA",TBS
+http://170.250.96.20:8117/streams/TBS.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1pxXEtP.png" group-title="USA",The Asylum
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0j5Aget.png" group-title="USA",The Beach Show
+http://30a-tv.com/beachy.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3782832_logo_the_country_network.png" group-title="USA",The Country Network
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.outdoorcookingchannel.com/wp-content/uploads/2014/06/150-logo.png" group-title="USA",The Outdoor Cooking Channel
+http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DPls9e7.png" group-title="USA",The Pet Collective
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-petcollective/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1024px-The_Weather_Channel_logo_2005-present.svg.png" group-title="USA",The Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BvRObyp.png" group-title="USA",The Works
+https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png" group-title="USA",TLC*
+http://80.80.160.168/live/2/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wzBD6fy.png" group-title="USA",TMZ
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GFyJviy.png" group-title="USA",Travel 4U
+https://edge1.dashmedia.tv/onestudio/travel4u/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/TVLandWest.us.png" group-title="USA",TV Land
+http://espn.tmedia.me/cache/tvland.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/TWiT.svg/130px-TWiT.svg.png" group-title="USA",TWiT
+http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lPyJhBN.png" group-title="USA",UN Web TV
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/csFA5Jn.png" group-title="USA",Universal TV
+http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png" group-title="USA",VH1 (Opt-2)
+http://espn.tmedia.me/cache/vh1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static1.squarespace.com/static/51a013dee4b0a2a2d2ef73e9/t/530a34ace4b0d1b000d31222/1393177774359/voa.png" group-title="USA",Voice of America (PST)
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static1.squarespace.com/static/51a013dee4b0a2a2d2ef73e9/t/530a34ace4b0d1b000d31222/1393177774359/voa.png" group-title="USA",Voice of America (EST)
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/WeatherNation_logo.png" group-title="USA",Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nFSaVJ2.png" group-title="USA",Westerns 4U
+https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ajdPrL4.png" group-title="USA",WHAM Network
+https://live.cdn.wham.tv/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.whomag.net/wp-content/uploads/2014/09/whomagtv-banner.png" group-title="USA",Who?Mag TV
+https://vcndmtv.teleosmedia.com/stream/dmtv/whomagmultimedia/seglist_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/WSVI_Logo.png" group-title="USA",WSVI-TV
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/1121px-WWE_Logo.svg.png" group-title="USA",WWE Network
+http://cdnak19.cast4u.info/channels/4/10804.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8JAnpoj.png" group-title="USA",Xcorps TV
+http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xZ8JzlZ.png" group-title="USA",Sign Me TV
+https://vcnswee.teleosmedia.com/stream/swee/signmetv/seglist_720p.m3u8
+
+
+
+#EXTINF:-1,CA: CARTOON NETWORK  HD
+http://thenew.tv:8000/live/pop/pop/5125.m3u8
+#EXTINF:-1,CA: CBC CALGARY | HD
+http://thenew.tv:8000/live/pop/pop/5124.m3u8
+#EXTINF:-1,CA: CBC CHARLOTTETOWN | HD
+http://thenew.tv:8000/live/pop/pop/5123.m3u8
+#EXTINF:-1,CA: CBC EDMONTON | HD
+http://thenew.tv:8000/live/pop/pop/5122.m3u8
+#EXTINF:-1,CA: CBC FREDERICTON | HD
+http://thenew.tv:8000/live/pop/pop/5121.m3u8
+#EXTINF:-1,CA: CBC NEWS NETWORKS
+http://thenew.tv:8000/live/pop/pop/5120.m3u8
+#EXTINF:-1,CA: CBC HALIFAX | HD
+http://thenew.tv:8000/live/pop/pop/5119.m3u8
+#EXTINF:-1,CA: CBC MONTREAL | HD
+http://thenew.tv:8000/live/pop/pop/5118.m3u8
+#EXTINF:-1,CA: CBC VENCOUVER | HD
+http://thenew.tv:8000/live/pop/pop/5114.m3u8
+#EXTINF:-1,CA: CBC REGINA | HD
+http://thenew.tv:8000/live/pop/pop/5112.m3u8
+#EXTINF:-1,CA: CBC ST. JOHNS | HD
+http://thenew.tv:8000/live/pop/pop/5111.m3u8
+#EXTINF:-1,CA: CBC TORONTO | HD
+http://thenew.tv:8000/live/pop/pop/5110.m3u8
+#EXTINF:-1,CA: CBC TV
+http://thenew.tv:8000/live/pop/pop/5109.m3u8
+#EXTINF:-1,CA: CBC VANCOUVER | HD
+http://thenew.tv:8000/live/pop/pop/5108.m3u8
+#EXTINF:-1,CA: CBC WINDSOR | HD
+http://thenew.tv:8000/live/pop/pop/5107.m3u8
+#EXTINF:-1,CA: CBC WINNIPEG | HD
+http://thenew.tv:8000/live/pop/pop/5106.m3u8
+#EXTINF:-1,CA: CBC YELLOWKNIFE | HD
+http://thenew.tv:8000/live/pop/pop/5105.m3u8
+#EXTINF:-1,CA: CBS (West) | HD
+http://thenew.tv:8000/live/pop/pop/5104.m3u8
+#EXTINF:-1,CA: CBS NEWS | SD
+http://thenew.tv:8000/live/pop/pop/5103.m3u8
+#EXTINF:-1,CA: CHCH | HD
+http://thenew.tv:8000/live/pop/pop/5101.m3u8
+#EXTINF:-1,CA: CITY TORONTO | HD
+http://thenew.tv:8000/live/pop/pop/5099.m3u8
+#EXTINF:-1,CA: CNBC WORLD | HD
+http://thenew.tv:8000/live/pop/pop/5092.m3u8
+#EXTINF:-1,CA: CNN | HD
+http://thenew.tv:8000/live/pop/pop/5089.m3u8
+#EXTINF:-1,CA: COOKING CHANNEL | HD
+http://thenew.tv:8000/live/pop/pop/5085.m3u8
+#EXTINF:-1,CA: CP24  | HD
+http://thenew.tv:8000/live/pop/pop/5082.m3u8
+#EXTINF:-1,CA: CPAC | HD
+http://thenew.tv:8000/live/pop/pop/5081.m3u8
+#EXTINF:-1,CA: CRIME   INVESTIGATION | HD
+http://thenew.tv:8000/live/pop/pop/5080.m3u8
+#EXTINF:-1,CA: CTV (Kitchener) | HD
+http://thenew.tv:8000/live/pop/pop/5079.m3u8
+#EXTINF:-1,CA: CTV 2 | HD
+http://thenew.tv:8000/live/pop/pop/5077.m3u8
+#EXTINF:-1,CA:  CTV MONTREAL HD *
+http://thenew.tv:8000/live/pop/pop/5076.m3u8
+#EXTINF:-1,CA: CTV NEWS | HD
+http://thenew.tv:8000/live/pop/pop/5075.m3u8
+#EXTINF:-1,CA: CTV TORONTO | HD
+http://thenew.tv:8000/live/pop/pop/5074.m3u8
+#EXTINF:-1,CA: CTV VANCOUVER | HD
+http://thenew.tv:8000/live/pop/pop/5073.m3u8
+#EXTINF:-1,CA: CW | HD
+http://thenew.tv:8000/live/pop/pop/5072.m3u8
+#EXTINF:-1,CA: DISCOVERY CHANNEL | HD
+http://thenew.tv:8000/live/pop/pop/5070.m3u8
+#EXTINF:-1,CA: DISCOVERY INVESTIGATION HD
+http://thenew.tv:8000/live/pop/pop/5069.m3u8
+#EXTINF:-1,CA: DISCOVERY SCIENCE | HD
+http://thenew.tv:8000/live/pop/pop/5068.m3u8
+#EXTINF:-1,CA:  DISNEY CHANNEL | HD
+http://thenew.tv:8000/live/pop/pop/5066.m3u8
+#EXTINF:-1,CA:   DISNEY JR | HD
+http://thenew.tv:8000/live/pop/pop/5065.m3u8
+#EXTINF:-1,CA:  DISNEY XD  HD
+http://thenew.tv:8000/live/pop/pop/5064.m3u8
+#EXTINF:-1,CA:  NETWORK | HD
+http://thenew.tv:8000/live/pop/pop/5062.m3u8
+#EXTINF:-1,CA: E! | HD
+http://thenew.tv:8000/live/pop/pop/5059.m3u8
+#EXTINF:-1,CA: FAMILY | HD
+http://thenew.tv:8000/live/pop/pop/5054.m3u8
+#EXTINF:-1,CA: FAMILY CHANNEL (East) | HD
+http://thenew.tv:8000/live/pop/pop/5057.m3u8
+#EXTINF:-1,CA: FAMILY JR | HD
+http://thenew.tv:8000/live/pop/pop/5055.m3u8
+#EXTINF:-1,CA:  FOOD NETWORK | HD
+http://thenew.tv:8000/live/pop/pop/5052.m3u8
+#EXTINF:-1,CA: FOX | HD
+http://thenew.tv:8000/live/pop/pop/5051.m3u8
+#EXTINF:-1,CA: FOX BUSINESS | HD
+http://thenew.tv:8000/live/pop/pop/5050.m3u8
+#EXTINF:-1,CA: FOX NEWS   HD
+http://thenew.tv:8000/live/pop/pop/5049.m3u8
+#EXTINF:-1,CA:  FOX Q13 | HD
+http://thenew.tv:8000/live/pop/pop/5048.m3u8
+#EXTINF:-1,CA:  FX CANADA | HD
+http://thenew.tv:8000/live/pop/pop/5046.m3u8
+#EXTINF:-1,CA: FXX CANADA | HD
+http://thenew.tv:8000/live/pop/pop/5045.m3u8
+#EXTINF:-1,CA: GAME SHOW NETWORK | HD
+http://thenew.tv:8000/live/pop/pop/5044.m3u8
+#EXTINF:-1,CA: GLOBAL BC | SD
+http://thenew.tv:8000/live/pop/pop/5043.m3u8
+#EXTINF:-1,CA: GLOBAL CALGARY   SD
+http://thenew.tv:8000/live/pop/pop/5042.m3u8
+#EXTINF:-1,CA: GLOBAL EDMONTON | SD
+http://thenew.tv:8000/live/pop/pop/5041.m3u8
+#EXTINF:-1,CA: GLOBAL MONTREAL | HD
+http://thenew.tv:8000/live/pop/pop/5039.m3u8
+#EXTINF:-1,CA: GLOBAL NEWS | HD
+http://thenew.tv:8000/live/pop/pop/5038.m3u8
+#EXTINF:-1,CA: GLOBAL TORONTO | HD
+http://thenew.tv:8000/live/pop/pop/5032.m3u8
+#EXTINF:-1,CA: GLOBAL VANCOUVER | HD
+http://thenew.tv:8000/live/pop/pop/5031.m3u8
+#EXTINF:-1,CA: GOLF CHANNEL | HD
+http://thenew.tv:8000/live/pop/pop/5030.m3u8
+
+#EXTINF:-1,CA: HGTV HD
+http://thenew.tv:8000/live/pop/pop/5023.m3u8
+#EXTINF:-1,CA: HISTORY | HD
+http://thenew.tv:8000/live/pop/pop/5019.m3u8
+#EXTINF:-1,CA: HLN | HD
+http://thenew.tv:8000/live/pop/pop/5018.m3u8
+#EXTINF:-1,CA: Legislative Assembly Of Ontario | HD
+http://thenew.tv:8000/live/pop/pop/5010.m3u8
+#EXTINF:-1,CA: LIFETIME | HD
+http://thenew.tv:8000/live/pop/pop/5012.m3u8
+#EXTINF:-1,CA: LOVE NATURE | HD
+http://thenew.tv:8000/live/pop/pop/5011.m3u8
+#EXTINF:-1,CA: MSNBC | HD
+http://thenew.tv:8000/live/pop/pop/5009.m3u8
+#EXTINF:-1,CA: MUCH  HD
+http://thenew.tv:8000/live/pop/pop/5008.m3u8
+#EXTINF:-1,CA: NAT GEO | HD
+http://thenew.tv:8000/live/pop/pop/5006.m3u8
+#EXTINF:-1,CA: NAT GEO WILD | HD
+http://thenew.tv:8000/live/pop/pop/5007.m3u8
+#EXTINF:-1,US: NBA TV HD
+http://thenew.tv:8000/live/pop/pop/5005.m3u8
+#EXTINF:-1,CA: NBC | HD
+http://thenew.tv:8000/live/pop/pop/5004.m3u8
+#EXTINF:-1,CA: NICKTOONS | SD
+http://thenew.tv:8000/live/pop/pop/5002.m3u8
+#EXTINF:-1,CA: NTV NEWFOUND LAND | HD
+http://thenew.tv:8000/live/pop/pop/5001.m3u8
+#EXTINF:-1,CA: OLN | HD
+http://thenew.tv:8000/live/pop/pop/5000.m3u8
+#EXTINF:-1,CA: OMNI 1 | HD
+http://thenew.tv:8000/live/pop/pop/4999.m3u8
+#EXTINF:-1,CA: OMNI 2 | HD
+http://thenew.tv:8000/live/pop/pop/4998.m3u8
+#EXTINF:-1,CA: OUTDOOR LIFE NETWORK | HD
+http://thenew.tv:8000/live/pop/pop/4997.m3u8
+#EXTINF:-1,CA: OWN | HD
+http://thenew.tv:8000/live/pop/pop/4996.m3u8
+#EXTINF:-1,CA: PARAMOUNT NETWORK | HD
+http://thenew.tv:8000/live/pop/pop/4995.m3u8
+#EXTINF:-1,CA: PBS | HD
+http://thenew.tv:8000/live/pop/pop/4993.m3u8
+#EXTINF:-1,CA: SHOWCASE | HD
+http://thenew.tv:8000/live/pop/pop/4991.m3u8
+#EXTINF:-1,CA: SLICE TV  | HD
+http://thenew.tv:8000/live/pop/pop/4989.m3u8
+#EXTINF:-1,CA: SPACE | UHD
+http://thenew.tv:8000/live/pop/pop/4987.m3u8
+#EXTINF:-1,CA: TELETOON | HD
+http://thenew.tv:8000/live/pop/pop/4977.m3u8
+#EXTINF:-1,CA: THE SHOPPING CHANNEL | HD
+http://thenew.tv:8000/live/pop/pop/4976.m3u8
+#EXTINF:-1,CA: THE WEATHER NETWORK | HD
+http://thenew.tv:8000/live/pop/pop/4974.m3u8
+#EXTINF:-1,CA: TLC | HD
+http://thenew.tv:8000/live/pop/pop/4973.m3u8
+#EXTINF:-1,CA: TMN 2 | SD
+http://thenew.tv:8000/live/pop/pop/4971.m3u8
+#EXTINF:-1,CA: TMN 4 | SD
+http://thenew.tv:8000/live/pop/pop/4969.m3u8
+#EXTINF:-1,CA: TREEHOUSE | UHD
+http://thenew.tv:8000/live/pop/pop/4967.m3u8
+#EXTINF:-1,CA: TVO | HD
+http://thenew.tv:8000/live/pop/pop/4957.m3u8
+#EXTINF:-1,CA: WEATHER NETWORK (Toronto) | HD
+http://thenew.tv:8000/live/pop/pop/4952.m3u8
+#EXTINF:-1,CA: WEATHER NETWORK FRENCH HD
+http://thenew.tv:8000/live/pop/pop/4951.m3u8
+#EXTINF:-1,CA: WOMENS NETWORK | SD
+http://thenew.tv:8000/live/pop/pop/4950.m3u8
+#EXTINF:-1,CA: YTV (East) | HD
+http://thenew.tv:8000/live/pop/pop/4949.m3u8
+#EXTINF:-1,CA: YTV | HD
+http://thenew.tv:8000/live/pop/pop/4948.m3u8
+#EXTINF:-1,CA:CASA
+http://thenew.tv:8000/live/pop/pop/1050.m3u8
+#EXTINF:-1,CA: DISNEY (CANADA)  (French)
+http://thenew.tv:8000/live/pop/pop/1048.m3u8
+#EXTINF:-1,CA:EVASION (French)
+http://thenew.tv:8000/live/pop/pop/55772.m3u8
+#EXTINF:-1,CA:HISTORIA
+http://thenew.tv:8000/live/pop/pop/1046.m3u8
+#EXTINF:-1,CA:ICI VANCOUVER
+http://thenew.tv:8000/live/pop/pop/1044.m3u8
+#EXTINF:-1,CA: KNOWLEDGE KIDS HD
+http://thenew.tv:8000/live/pop/pop/5015.m3u8
+#EXTINF:-1,CA:LCN  HD *
+http://thenew.tv:8000/live/pop/pop/1043.m3u8
+#EXTINF:-1,CA:METEO MEDIA  (French)
+http://thenew.tv:8000/live/pop/pop/1041.m3u8
+#EXTINF:-1,CA:MUSIQUE PLUS (French)
+http://thenew.tv:8000/live/pop/pop/1040.m3u8
+#EXTINF:-1,CA:PRISE 2 (French)
+http://thenew.tv:8000/live/pop/pop/1039.m3u8
+#EXTINF:-1,CA:ICI RDI HD *
+http://thenew.tv:8000/live/pop/pop/1038.m3u8
+#EXTINF:-1,CA: RDS 2 (CANADA)  (French)
+http://thenew.tv:8000/live/pop/pop/1036.m3u8
+#EXTINF:-1,CA:RDS INFO (French)
+http://thenew.tv:8000/live/pop/pop/1035.m3u8
+#EXTINF:-1,CA:SERIS (French)
+http://thenew.tv:8000/live/pop/pop/1034.m3u8
+#EXTINF:-1,CA: SMITHSONIAN
+http://thenew.tv:8000/live/pop/pop/5150.m3u8
+#EXTINF:-1,CA: TELE TOON (CANADA)  (French)
+http://thenew.tv:8000/live/pop/pop/1032.m3u8
+#EXTINF:-1,CA:TELEMAGINO (French)
+http://thenew.tv:8000/live/pop/pop/1031.m3u8
+#EXTINF:-1,CA:TFO (French)
+http://thenew.tv:8000/live/pop/pop/1030.m3u8
+#EXTINF:-1,CA:TV5 QUEBEC (French)
+http://thenew.tv:8000/live/pop/pop/1029.m3u8
+#EXTINF:-1,CA:TVA MONTREAL HD *
+http://thenew.tv:8000/live/pop/pop/1027.m3u8
+#EXTINF:-1,CA:V MONTREAL (French)
+http://thenew.tv:8000/live/pop/pop/2085.m3u8
+#EXTINF:-1,CA: ADDIK TV FR
+http://thenew.tv:8000/live/pop/pop/2086.m3u8
+
+#EXTINF:-1,US: A&E | HD
+http://thenew.tv:8000/live/pop/pop/33098.m3u8
+#EXTINF:-1,US: ABC
+http://thenew.tv:8000/live/pop/pop/54192.m3u8
+#EXTINF:-1,US: ABC (West) | HD
+http://thenew.tv:8000/live/pop/pop/82891.m3u8
+#EXTINF:-1,US: Adult Swim Channel
+http://thenew.tv:8000/live/pop/pop/3462.m3u8
+#EXTINF:-1,US: AFN Prime Atlantic HD
+http://thenew.tv:8000/live/pop/pop/82895.m3u8
+#EXTINF:-1,US: AFN PRIME PACIFIC HD
+http://thenew.tv:8000/live/pop/pop/82894.m3u8
+#EXTINF:-1,US: AFN Pulse
+http://thenew.tv:8000/live/pop/pop/82893.m3u8
+#EXTINF:-1,US: AFN SPECTRUM HD
+http://thenew.tv:8000/live/pop/pop/82892.m3u8
+#EXTINF:-1,US: AMC | HD
+http://thenew.tv:8000/live/pop/pop/29438.m3u8
+#EXTINF:-1,US: American Heroes
+http://thenew.tv:8000/live/pop/pop/3391.m3u8
+#EXTINF:-1,US: ANIMAL PLANET HD
+http://thenew.tv:8000/live/pop/pop/3460.m3u8
+#EXTINF:-1,US: ANIMAL PLANET (West) | HD
+http://thenew.tv:8000/live/pop/pop/82890.m3u8
+#EXTINF:-1,US: ANTENNA TV | SD
+http://thenew.tv:8000/live/pop/pop/52760.m3u8
+#EXTINF:-1,US: ASPIRE TV | UHD
+http://thenew.tv:8000/live/pop/pop/69054.m3u8
+#EXTINF:-1,US: AXS TV | HD
+http://thenew.tv:8000/live/pop/pop/27484.m3u8
+#EXTINF:-1,US: BBC AMERICA | HD
+http://thenew.tv:8000/live/pop/pop/27481.m3u8
+#EXTINF:-1,US: BET
+http://thenew.tv:8000/live/pop/pop/3459.m3u8
+#EXTINF:-1,US: BET (West) | HD
+http://thenew.tv:8000/live/pop/pop/82889.m3u8
+#EXTINF:-1,US: BET her
+http://thenew.tv:8000/live/pop/pop/3458.m3u8
+#EXTINF:-1,US: BET INTERNATIONAL | SD
+http://thenew.tv:8000/live/pop/pop/76688.m3u8
+#EXTINF:-1,US: BET JAMZ | SD
+http://thenew.tv:8000/live/pop/pop/76687.m3u8
+#EXTINF:-1,US: BOUNCE TV | SD
+http://thenew.tv:8000/live/pop/pop/7838.m3u8
+#EXTINF:-1,US: BOOMERANG
+http://thenew.tv:8000/live/pop/pop/3457.m3u8
+#EXTINF:-1,US: BRAVO | HD
+http://thenew.tv:8000/live/pop/pop/32969.m3u8
+#EXTINF:-1,US: BRAVO (West) | HD
+http://thenew.tv:8000/live/pop/pop/82887.m3u8
+#EXTINF:-1,US: BUZZER TV | SD
+http://thenew.tv:8000/live/pop/pop/38444.m3u8
+#EXTINF:-1,US: BYU TV | HD
+http://thenew.tv:8000/live/pop/pop/38443.m3u8
+#EXTINF:-1,US: CARTOON NETWORK
+http://thenew.tv:8000/live/pop/pop/3455.m3u8
+#EXTINF:-1,US: CBS (East)
+http://thenew.tv:8000/live/pop/pop/3454.m3u8
+#EXTINF:-1,US: CBS  (WEST)  | HD
+http://thenew.tv:8000/live/pop/pop/82886.m3u8
+#EXTINF:-1,US: CBS POP | HD
+http://thenew.tv:8000/live/pop/pop/76685.m3u8
+#EXTINF:-1,US: Classic Arts Showcase | SD
+http://thenew.tv:8000/live/pop/pop/76684.m3u8
+#EXTINF:-1,US: Classic TV 4U | HD
+http://thenew.tv:8000/live/pop/pop/76683.m3u8
+#EXTINF:-1,US: CMT
+http://thenew.tv:8000/live/pop/pop/3390.m3u8
+#EXTINF:-1,US: COOKING CHANNEL HD
+http://thenew.tv:8000/live/pop/pop/3452.m3u8
+#EXTINF:-1,US: COMEDY CENTRAL | HD
+http://thenew.tv:8000/live/pop/pop/33099.m3u8
+#EXTINF:-1,US: Comet TV
+http://thenew.tv:8000/live/pop/pop/81473.m3u8
+#EXTINF:-1,US: COZI TV | HD
+http://thenew.tv:8000/live/pop/pop/38446.m3u8
+#EXTINF:-1,US: CRIME + INVESTIGATION | UHD
+http://thenew.tv:8000/live/pop/pop/60123.m3u8
+#EXTINF:-1,US: CW HD
+http://thenew.tv:8000/live/pop/pop/3450.m3u8
+#EXTINF:-1,US: CW (Central PA) | HD
+http://thenew.tv:8000/live/pop/pop/82885.m3u8
+#EXTINF:-1,US: CW 50 (Chicago) | HD
+http://thenew.tv:8000/live/pop/pop/82884.m3u8
+#EXTINF:-1,US: CW57 (Philly) | HD
+http://thenew.tv:8000/live/pop/pop/82883.m3u8
+#EXTINF:-1,US: Decades | SD
+http://thenew.tv:8000/live/pop/pop/73974.m3u8
+#EXTINF:-1,US: Destination America
+http://thenew.tv:8000/live/pop/pop/3448.m3u8
+#EXTINF:-1,US: Discovery Channel HD
+http://thenew.tv:8000/live/pop/pop/3447.m3u8
+#EXTINF:-1,US: Discovery Channel (Pacific) | HD
+http://thenew.tv:8000/live/pop/pop/82882.m3u8
+#EXTINF:-1,US: Discovery Life HD
+http://thenew.tv:8000/live/pop/pop/40360.m3u8
+#EXTINF:-1,US: Discovery Science HD
+http://thenew.tv:8000/live/pop/pop/3446.m3u8
+#EXTINF:-1,US: Discovery Family
+http://thenew.tv:8000/live/pop/pop/3389.m3u8
+#EXTINF:-1,US: Disney Channel
+http://thenew.tv:8000/live/pop/pop/3388.m3u8
+#EXTINF:-1,US: Disney Channel Paficic
+http://thenew.tv:8000/live/pop/pop/3387.m3u8
+#EXTINF:-1,US: Disney Junior
+http://thenew.tv:8000/live/pop/pop/40361.m3u8
+#EXTINF:-1,US: Disney Junior Pacific
+http://thenew.tv:8000/live/pop/pop/3386.m3u8
+#EXTINF:-1,US: Disney XD
+http://thenew.tv:8000/live/pop/pop/3385.m3u8
+#EXTINF:-1,US: DIY Network HD
+http://thenew.tv:8000/live/pop/pop/3445.m3u8
+#EXTINF:-1,US:EL REY NETWORK (FHD)
+http://thenew.tv:8000/live/pop/pop/59581.m3u8
+#EXTINF:-1,US: DOG TV
+http://thenew.tv:8000/live/pop/pop/47422.m3u8
+#EXTINF:-1,US: E! Entertainment
+http://thenew.tv:8000/live/pop/pop/3443.m3u8
+#EXTINF:-1,US: E! (West) | HD
+http://thenew.tv:8000/live/pop/pop/82881.m3u8
+#EXTINF:-1,US: FOOD NETWORK
+http://thenew.tv:8000/live/pop/pop/3441.m3u8
+#EXTINF:-1,US: FOOD NETWORK (West) | HD
+http://thenew.tv:8000/live/pop/pop/82880.m3u8
+#EXTINF:-1,US: Food Network HD
+http://thenew.tv:8000/live/pop/pop/3440.m3u8
+#EXTINF:-1,US:FOX BUSINESS
+http://thenew.tv:8000/live/pop/pop/3438.m3u8
+#EXTINF:-1,US: FOX
+http://thenew.tv:8000/live/pop/pop/3437.m3u8
+#EXTINF:-1,US: FOX (WEST) | HD
+http://thenew.tv:8000/live/pop/pop/82879.m3u8
+#EXTINF:-1,US: FREEFORM
+http://thenew.tv:8000/live/pop/pop/3436.m3u8
+#EXTINF:-1,US: FREEFORM (West) | HD
+http://thenew.tv:8000/live/pop/pop/82878.m3u8
+#EXTINF:-1,US: FUSE | HD
+http://thenew.tv:8000/live/pop/pop/38447.m3u8
+#EXTINF:-1,US: Fusion
+http://thenew.tv:8000/live/pop/pop/3384.m3u8
+#EXTINF:-1,US: FX HD
+http://thenew.tv:8000/live/pop/pop/3435.m3u8
+#EXTINF:-1,US: FX (West) | HD
+http://thenew.tv:8000/live/pop/pop/82877.m3u8
+#EXTINF:-1,US: FXM
+http://thenew.tv:8000/live/pop/pop/3434.m3u8
+#EXTINF:-1,US: FXX
+http://thenew.tv:8000/live/pop/pop/3433.m3u8
+#EXTINF:-1,US: FXX WEST | HD
+http://thenew.tv:8000/live/pop/pop/82876.m3u8
+#EXTINF:-1,US: FYI
+http://thenew.tv:8000/live/pop/pop/3432.m3u8
+#EXTINF:-1,US: Game Show Network
+http://thenew.tv:8000/live/pop/pop/3612.m3u8
+#EXTINF:-1,US: GRIT TV | SD
+http://thenew.tv:8000/live/pop/pop/38448.m3u8
+#EXTINF:-1,US: HALLMARK
+http://thenew.tv:8000/live/pop/pop/3430.m3u8
+#EXTINF:-1,US: HALLMARK DRAMA | HD
+http://thenew.tv:8000/live/pop/pop/27303.m3u8
+#EXTINF:-1,US: HALLMARK M&M
+http://thenew.tv:8000/live/pop/pop/3428.m3u8
+#EXTINF:-1,US: HGTV HD
+http://thenew.tv:8000/live/pop/pop/3427.m3u8
+#EXTINF:-1,US: HGTV ( West ) | HD
+http://thenew.tv:8000/live/pop/pop/82875.m3u8
+#EXTINF:-1,US: HISTORY HD
+http://thenew.tv:8000/live/pop/pop/3426.m3u8
+#EXTINF:-1,US: HISTORY 2 | HD
+http://thenew.tv:8000/live/pop/pop/29423.m3u8
+#EXTINF:-1,US: HLN
+http://thenew.tv:8000/live/pop/pop/3383.m3u8
+#EXTINF:-1,US: IFC | HD
+http://thenew.tv:8000/live/pop/pop/38449.m3u8
+#EXTINF:-1,US: INSP | HD
+http://thenew.tv:8000/live/pop/pop/38450.m3u8
+#EXTINF:-1,US:INVESTIGATION DISCOVERY
+http://thenew.tv:8000/live/pop/pop/3425.m3u8
+#EXTINF:-1,US: INVESTIGATION DISCOVERY (West) | HD
+http://thenew.tv:8000/live/pop/pop/82874.m3u8
+#EXTINF:-1,US: ION HD
+http://thenew.tv:8000/live/pop/pop/3424.m3u8
+#EXTINF:-1,US: KCAL 9 (Los Angeles) | HD
+http://thenew.tv:8000/live/pop/pop/82873.m3u8
+#EXTINF:-1,US: KTLA 5 (Los Angeles) | HD
+http://thenew.tv:8000/live/pop/pop/82872.m3u8
+#EXTINF:-1,US: KTVU PLUS | HD
+http://thenew.tv:8000/live/pop/pop/82871.m3u8
+#EXTINF:-1,US: LIFETIME
+http://thenew.tv:8000/live/pop/pop/3423.m3u8
+#EXTINF:-1,US:LIFETIME MOVIES
+http://thenew.tv:8000/live/pop/pop/3422.m3u8
+#EXTINF:-1,US: LOGO | HD
+http://thenew.tv:8000/live/pop/pop/76682.m3u8
+#EXTINF:-1,US: ME TV | HD
+http://thenew.tv:8000/live/pop/pop/18716.m3u8
+#EXTINF:-1,US: MTV
+http://thenew.tv:8000/live/pop/pop/3420.m3u8
+#EXTINF:-1,US: MTV 2
+http://thenew.tv:8000/live/pop/pop/40362.m3u8
+#EXTINF:-1,US: MGM HD
+http://thenew.tv:8000/live/pop/pop/3382.m3u8
+#EXTINF:-1,US: Motor trend | HD
+http://thenew.tv:8000/live/pop/pop/55951.m3u8
+#EXTINF:-1,US: MY9 | HD
+http://thenew.tv:8000/live/pop/pop/76681.m3u8
+#EXTINF:-1,US: MY13 (Los Angeles) | HD
+http://thenew.tv:8000/live/pop/pop/82870.m3u8
+#EXTINF:-1,US: National Geographic HD
+http://thenew.tv:8000/live/pop/pop/3419.m3u8
+#EXTINF:-1,US: NAT GEO (West) | HD
+http://thenew.tv:8000/live/pop/pop/82869.m3u8
+#EXTINF:-1,US: NAT GEO WILD HD
+http://thenew.tv:8000/live/pop/pop/3418.m3u8
+#EXTINF:-1,US: NBC
+http://thenew.tv:8000/live/pop/pop/3417.m3u8
+#EXTINF:-1,US:NBC EAST HD
+http://thenew.tv:8000/live/pop/pop/3416.m3u8
+#EXTINF:-1,US: NBC (West) | HD
+http://thenew.tv:8000/live/pop/pop/82868.m3u8
+#EXTINF:-1,US: NBC Telemundo
+http://thenew.tv:8000/live/pop/pop/3380.m3u8
+#EXTINF:-1,US: Nick JR HD
+http://thenew.tv:8000/live/pop/pop/3415.m3u8
+#EXTINF:-1,US: NICK jr
+http://thenew.tv:8000/live/pop/pop/3414.m3u8
+#EXTINF:-1,US: Teen Nick HD
+http://thenew.tv:8000/live/pop/pop/40363.m3u8
+#EXTINF:-1,US: NICKELODEON
+http://thenew.tv:8000/live/pop/pop/3413.m3u8
+#EXTINF:-1,US: OUTSIDE TV | HD
+http://thenew.tv:8000/live/pop/pop/38451.m3u8
+#EXTINF:-1,US: OUTDOOR CHANNEL | HD
+http://thenew.tv:8000/live/pop/pop/48437.m3u8
+#EXTINF:-1,US:OWN
+http://thenew.tv:8000/live/pop/pop/3412.m3u8
+#EXTINF:-1,US: OXYGEN HD
+http://thenew.tv:8000/live/pop/pop/3411.m3u8
+#EXTINF:-1,US: OXYGEN (West) | HD
+http://thenew.tv:8000/live/pop/pop/82867.m3u8
+#EXTINF:-1,US: PARAMOUNT NETWORK | UHD
+http://thenew.tv:8000/live/pop/pop/32492.m3u8
+#EXTINF:-1,US: PBS
+http://thenew.tv:8000/live/pop/pop/3410.m3u8
+#EXTINF:-1,US:PBS KIDS
+http://thenew.tv:8000/live/pop/pop/3409.m3u8
+#EXTINF:-1,US: PEOPLE TV | SD
+http://thenew.tv:8000/live/pop/pop/38452.m3u8
+#EXTINF:-1,US: POP TV HD
+http://thenew.tv:8000/live/pop/pop/38445.m3u8
+#EXTINF:-1,US: PURSUIT CHANNEL | HD
+http://thenew.tv:8000/live/pop/pop/50739.m3u8
+#EXTINF:-1,US: QVC | HD
+http://thenew.tv:8000/live/pop/pop/38453.m3u8
+#EXTINF:-1,US: REELZ | HD
+http://thenew.tv:8000/live/pop/pop/38454.m3u8
+#EXTINF:-1,US: REVOLT | HD
+http://thenew.tv:8000/live/pop/pop/51338.m3u8
+#EXTINF:-1,US: SMITHSONIAN CHANNEL | HD
+http://thenew.tv:8000/live/pop/pop/35249.m3u8
+#EXTINF:-1,US: SPIKE TV
+http://thenew.tv:8000/live/pop/pop/3408.m3u8
+#EXTINF:-1,US: SYFY
+http://thenew.tv:8000/live/pop/pop/3407.m3u8
+#EXTINF:-1,US: SYFY (West) | HD
+http://thenew.tv:8000/live/pop/pop/82866.m3u8
+#EXTINF:-1,US: TASTEMADE | HD
+http://thenew.tv:8000/live/pop/pop/76680.m3u8
+#EXTINF:-1,US: TBN
+http://thenew.tv:8000/live/pop/pop/3406.m3u8
+#EXTINF:-1,US: TBS HD
+http://thenew.tv:8000/live/pop/pop/3405.m3u8
+#EXTINF:-1,US: TCM
+http://thenew.tv:8000/live/pop/pop/3378.m3u8
+#EXTINF:-1,US: TELEXITOS | HD
+http://thenew.tv:8000/live/pop/pop/76679.m3u8
+#EXTINF:-1,US: The Cowboy Channel (RFD-TV)
+http://thenew.tv:8000/live/pop/pop/76678.m3u8
+#EXTINF:-1,US: THE WEATHER CHANNEL
+http://thenew.tv:8000/live/pop/pop/3404.m3u8
+#EXTINF:-1,US: TLC
+http://thenew.tv:8000/live/pop/pop/3403.m3u8
+#EXTINF:-1,US: TLC (West) | HD
+http://thenew.tv:8000/live/pop/pop/82865.m3u8
+#EXTINF:-1,US: TNT
+http://thenew.tv:8000/live/pop/pop/3402.m3u8
+#EXTINF:-1,US: TNT (West) | HD
+http://thenew.tv:8000/live/pop/pop/82864.m3u8
+#EXTINF:-1,US: TRAVEL CHANNEL
+http://thenew.tv:8000/live/pop/pop/3401.m3u8
+#EXTINF:-1,US: TRAVEL CHANNEL (West) | HD
+http://thenew.tv:8000/live/pop/pop/82863.m3u8
+#EXTINF:-1,US: TRU TV
+http://thenew.tv:8000/live/pop/pop/3400.m3u8
+#EXTINF:-1,US: TVG Network | SD
+http://thenew.tv:8000/live/pop/pop/72111.m3u8
+#EXTINF:-1,US: TV LAND | HD
+http://thenew.tv:8000/live/pop/pop/71445.m3u8
+#EXTINF:-1,US: TV LAND CLASSIC | HD
+http://thenew.tv:8000/live/pop/pop/71444.m3u8
+#EXTINF:-1,US: TV ONE
+http://thenew.tv:8000/live/pop/pop/3398.m3u8
+#EXTINF:-1,US: UNIVERSAL KIDS
+http://thenew.tv:8000/live/pop/pop/3397.m3u8
+#EXTINF:-1,US: USA Network HD
+http://thenew.tv:8000/live/pop/pop/3396.m3u8
+#EXTINF:-1,US: USA NETWORK ( West ) | HD
+http://thenew.tv:8000/live/pop/pop/82862.m3u8
+#EXTINF:-1,US: VH1
+http://thenew.tv:8000/live/pop/pop/3394.m3u8
+#EXTINF:-1,US: VICELAND
+http://thenew.tv:8000/live/pop/pop/3393.m3u8
+#EXTINF:-1,US: WE TV | HD
+http://thenew.tv:8000/live/pop/pop/38455.m3u8
+#EXTINF:-1,US: WGN AMERICA | HD
+http://thenew.tv:8000/live/pop/pop/38456.m3u8
+#EXTINF:-1,US: WORLD FISHING NETWORK | HD
+http://thenew.tv:8000/live/pop/pop/38457.m3u8
+#EXTINF:-1,Paddington 2
+http://infabalancer1.ddns.net:800/filesOVH/Paddington.2.mp4
+#EXTINF:-1,Ready Player One
+http://infabalancer1.ddns.net:800/filesOVH/Ready.Player.One.mp4
+#EXTINF:-1,NHL NETWORK | HD (24/7 Coverage)
+http://thenew.tv:8000/live/pop/pop/5736.m3u8
+#EXTINF:-1,US: NHL NETWORK | HD*
+http://thenew.tv:8000/live/pop/pop/6393.m3u8
+#EXTINF:-1,US: ABC NEWS | HD
+http://thenew.tv:8000/live/pop/pop/5832.m3u8
+#EXTINF:-1,US: Bloomberg TV | HD
+http://thenew.tv:8000/live/pop/pop/5831.m3u8
+#EXTINF:-1,US: CBSN | HD
+http://thenew.tv:8000/live/pop/pop/5830.m3u8
+#EXTINF:-1,US: CHEDDAR | HD
+http://thenew.tv:8000/live/pop/pop/5829.m3u8
+#EXTINF:-1,US: CHEDDAR HEADLINE NEWS | HD
+http://thenew.tv:8000/live/pop/pop/5828.m3u8
+#EXTINF:-1,US: CNBC WORLD | HD
+http://thenew.tv:8000/live/pop/pop/5827.m3u8
+#EXTINF:-1,US:C-SPAN 1
+http://thenew.tv:8000/live/pop/pop/62949.m3u8
+#EXTINF:-1,US:C-SPAN 2
+http://thenew.tv:8000/live/pop/pop/62948.m3u8
+#EXTINF:-1,US:C-SPAN 3
+http://thenew.tv:8000/live/pop/pop/62947.m3u8
+#EXTINF:-1,US: CNN | HD
+http://thenew.tv:8000/live/pop/pop/5826.m3u8
+#EXTINF:-1,US: CNN | UHD
+http://thenew.tv:8000/live/pop/pop/5824.m3u8
+#EXTINF:-1,US: CNN | SD
+http://thenew.tv:8000/live/pop/pop/45956.m3u8
+#EXTINF:-1,US: FOX BUSINESS | HD
+http://thenew.tv:8000/live/pop/pop/5823.m3u8
+#EXTINF:-1,US: FOX NEWS | HD*
+http://thenew.tv:8000/live/pop/pop/5821.m3u8
+#EXTINF:-1,Fox News Channel
+http://thenew.tv:8000/live/pop/pop/6396.m3u8
+#EXTINF:-1,US: MSNBC | HD
+http://thenew.tv:8000/live/pop/pop/5819.m3u8
+#EXTINF:-1,US: RT AMERICA | HD
+http://thenew.tv:8000/live/pop/pop/5817.m3u8
+#EXTINF:-1,US: The Weather Channel | HD
+http://thenew.tv:8000/live/pop/pop/5816.m3u8
+#EXTINF:-1,US: AT&T Sportsnet Southwest | HD
+http://thenew.tv:8000/live/pop/pop/81641.m3u8
+#EXTINF:-1,US: BEIN SPORT | HD
+http://thenew.tv:8000/live/pop/pop/6390.m3u8
+#EXTINF:-1,US: BEIN SPORTS  | HD
+http://thenew.tv:8000/live/pop/pop/6389.m3u8
+#EXTINF:-1,US: beIN Sports HD 2
+http://thenew.tv:8000/live/pop/pop/6760.m3u8
+#EXTINF:-1,US: beIN Sports HD 9
+http://thenew.tv:8000/live/pop/pop/6756.m3u8
+#EXTINF:-1,US: BIG TEN NETWORK (BTN) | HD
+http://thenew.tv:8000/live/pop/pop/6388.m3u8
+#EXTINF:-1,US: BTN
+http://thenew.tv:8000/live/pop/pop/3482.m3u8
+#EXTINF:-1,US: CBS SPORTS NETWORK | HD
+http://thenew.tv:8000/live/pop/pop/6387.m3u8
+#EXTINF:-1,US: CBS SPORTS NETWORK | HD*
+http://thenew.tv:8000/live/pop/pop/6386.m3u8
+#EXTINF:-1,US: CSN BAY AREA | HD
+http://thenew.tv:8000/live/pop/pop/6385.m3u8
+#EXTINF:-1,US: CSN BOSTON | HD
+http://thenew.tv:8000/live/pop/pop/6384.m3u8
+#EXTINF:-1,US: CSN CALIFORNIA | HD
+http://thenew.tv:8000/live/pop/pop/6383.m3u8
+#EXTINF:-1,US: CSN CHICAGO | HD
+http://thenew.tv:8000/live/pop/pop/6382.m3u8
+#EXTINF:-1,US: CSN North West | HD
+http://thenew.tv:8000/live/pop/pop/6381.m3u8
+#EXTINF:-1,US: CSN PHILADELPHIA | HD
+http://thenew.tv:8000/live/pop/pop/6380.m3u8
+#EXTINF:-1,US: DAZN HD
+http://thenew.tv:8000/live/pop/pop/76456.m3u8
+#EXTINF:-1,US: ESPN | HD
+http://thenew.tv:8000/live/pop/pop/6378.m3u8
+#EXTINF:-1,US: ESPN | HD*
+http://thenew.tv:8000/live/pop/pop/6377.m3u8
+#EXTINF:-1,US: ESPN 2 | HD
+http://thenew.tv:8000/live/pop/pop/6376.m3u8
+#EXTINF:-1,US: ESPN 2 | HD*
+http://thenew.tv:8000/live/pop/pop/6375.m3u8
+#EXTINF:-1,US: ESPN 3 HD
+http://thenew.tv:8000/live/pop/pop/31829.m3u8
+#EXTINF:-1,US: FOX SPORTS MID WEST HD
+http://thenew.tv:8000/live/pop/pop/6339.m3u8
+#EXTINF:-1,US: FOX SPORTS NET | HD
+http://thenew.tv:8000/live/pop/pop/6338.m3u8
+#EXTINF:-1,US: FOX SPORTS NEW ORLEANS | HD
+http://thenew.tv:8000/live/pop/pop/6337.m3u8
+#EXTINF:-1,US: FOX SPORTS NORTH | HD
+http://thenew.tv:8000/live/pop/pop/6336.m3u8
+#EXTINF:-1,US: FOX SPORTS NORTH ALT | HD
+http://thenew.tv:8000/live/pop/pop/6335.m3u8
+#EXTINF:-1,US: FOX SPORTS OHIO | HD
+http://thenew.tv:8000/live/pop/pop/6334.m3u8
+#EXTINF:-1,US: FOX SPORTS OKLAHOMA | HD
+http://thenew.tv:8000/live/pop/pop/6333.m3u8
+#EXTINF:-1,US: FOX SPORTS PRIME TICKET | HD
+http://thenew.tv:8000/live/pop/pop/6332.m3u8
+#EXTINF:-1,US: FOX SPORTS SAN DIEGO | HD
+http://thenew.tv:8000/live/pop/pop/6331.m3u8
+#EXTINF:-1,US: FOX SPORTS SOUTH | HD
+http://thenew.tv:8000/live/pop/pop/6330.m3u8
+#EXTINF:-1,US: FOX SPORTS SOUTH WEST | HD
+http://thenew.tv:8000/live/pop/pop/6329.m3u8
+#EXTINF:-1,US: FOX SPORTS SOUTHEAST | HD
+http://thenew.tv:8000/live/pop/pop/6328.m3u8
+#EXTINF:-1,US: FOX SPORTS SOUTHWEST  | HD
+http://thenew.tv:8000/live/pop/pop/6326.m3u8
+#EXTINF:-1,US: FOX SPORTS SOUTHWEST | HD
+http://thenew.tv:8000/live/pop/pop/6327.m3u8
+#EXTINF:-1,US: FOX SPORTS SPORTSTIME OHIO | HD
+http://thenew.tv:8000/live/pop/pop/6325.m3u8
+#EXTINF:-1,US: FOX SPORTS SUN | HD
+http://thenew.tv:8000/live/pop/pop/6324.m3u8
+#EXTINF:-1,US: FOX SPORTS TENNESSEE | HD
+http://thenew.tv:8000/live/pop/pop/6323.m3u8
+#EXTINF:-1,US: FOX SPORTS WEST | HD
+http://thenew.tv:8000/live/pop/pop/6322.m3u8
+#EXTINF:-1,US: FOX SPORTS WISCONSIN | HD
+http://thenew.tv:8000/live/pop/pop/6321.m3u8
+#EXTINF:-1,US: FUEL TV HD
+http://thenew.tv:8000/live/pop/pop/32773.m3u8
+#EXTINF:-1,US: GOL TV | HD
+http://thenew.tv:8000/live/pop/pop/6317.m3u8
+#EXTINF:-1,US: LONGHORN NETWORK | HD
+http://thenew.tv:8000/live/pop/pop/6316.m3u8
+#EXTINF:-1,US: MADISON SQUARE GARGEN (MSG)  | HD
+http://thenew.tv:8000/live/pop/pop/6315.m3u8
+#EXTINF:-1,US: MAV TV | HD
+http://thenew.tv:8000/live/pop/pop/6314.m3u8
+#EXTINF:-1,US: MAVS TV | HD
+http://thenew.tv:8000/live/pop/pop/6313.m3u8
+#EXTINF:-1,US: MLB NETWORK | HD
+http://thenew.tv:8000/live/pop/pop/6392.m3u8
+#EXTINF:-1,US: MLB NETWORK HD
+http://thenew.tv:8000/live/pop/pop/74013.m3u8
+#EXTINF:-1,US: MLB STRIKE ZONE | HD
+http://thenew.tv:8000/live/pop/pop/6312.m3u8
+#EXTINF:-1,US: MOTORSPORTS TV | HD
+http://thenew.tv:8000/live/pop/pop/6311.m3u8
+#EXTINF:-1,US: MSG | HD
+http://thenew.tv:8000/live/pop/pop/6310.m3u8
+#EXTINF:-1,US: MSG 2 | HD
+http://thenew.tv:8000/live/pop/pop/6309.m3u8
+#EXTINF:-1,US: NBA TV | HD
+http://thenew.tv:8000/live/pop/pop/6391.m3u8
+#EXTINF:-1,US: NBC GOLF CHANNEL | HD
+http://thenew.tv:8000/live/pop/pop/6307.m3u8
+#EXTINF:-1,US: SNY | HD
+http://thenew.tv:8000/live/pop/pop/6280.m3u8
+#EXTINF:-1,US: SPORTSMAN CHANNEL | HD
+http://thenew.tv:8000/live/pop/pop/6279.m3u8
+#EXTINF:-1,US: SPORTSNET LA (Los Angeles) | HD
+http://thenew.tv:8000/live/pop/pop/6278.m3u8
+#EXTINF:-1,US: TENNIS CHANNEL | HD
+http://thenew.tv:8000/live/pop/pop/6277.m3u8
+#EXTINF:-1,US: TYC SPORTS | HD
+http://thenew.tv:8000/live/pop/pop/6276.m3u8
+#EXTINF:-1,US: Willow Cricket | HD
+http://thenew.tv:8000/live/pop/pop/6274.m3u8
