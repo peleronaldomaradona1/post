@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="FR: TF1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0f2avOMAbGJvEs2D94dtl3wZ7IFA-FD3neCSlWo8oA7MrFLnp" group-title="FRENCH",FR: TF1
 http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/31277
 #EXTINF:-1 tvg-id="TouteHistoire.fr" tvg-name="FR: TOUTE L HISTOIRE" tvg-logo="https://d3v4jsc54141g1.cloudfront.net/uploads/mentor/avatar/65859/normal_toutel_histoire.png" group-title="FRENCH",FR: TOUTE L HISTOIRE
