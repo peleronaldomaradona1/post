@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="FoxNews.us" tvg-name="..FOX  NEWS  HD" tvg-logo="https://fastly.4sqi.net/img/general/200x200/3268241_IlwZgEcIQTqozuu9HUlYD9Cs0BYe1_BaTc6rtetlJOQ.png" group-title="ENGLISH",..FOX  NEWS  HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7888
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="..CNN HD" tvg-logo="http://23.237.68.58/logo/cc/cnn_hd.png" group-title="ENGLISH",..CNN HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7986
+#EXTINF:-1 tvg-id="ABCNews24.au" tvg-name="..ABC NEWS HD" tvg-logo="http://23.237.68.58/logo/aa/abc_news.png" group-title="ENGLISH",..ABC NEWS HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7912
+#EXTINF:-1 tvg-id="BusinessNewsNetworkBloomberg.ca" tvg-name="..BNN" tvg-logo="http://23.237.68.58/logo/bb/bnn_ca.png" group-title="ENGLISH",..BNN
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/5033
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="..BLOOMBERG HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bloomberg_News_logo.png/220px-Bloomberg_News_logo.png" group-title="ENGLISH",..BLOOMBERG HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/7904
+#EXTINF:-1 tvg-id="" tvg-name="..CBSN NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/CBSN_channel_Logo.png/120px-CBSN_channel_Logo.png" group-title="ENGLISH",..CBSN NEWS
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/30424
+#EXTINF:-1 tvg-id="RTUS.ru" tvg-name="..RT News" tvg-logo="http://23.237.68.58/logo/rr/rt_ru_english.png" group-title="ENGLISH",..RT News
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148954
+#EXTINF:-1 tvg-id="RTInternational.ru" tvg-name="..RT AMERICA HD" tvg-logo="http://23.237.68.58/logo/rr/rt_ru_english.png" group-title="ENGLISH",..RT AMERICA HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/53248
+#EXTINF:-1 tvg-id="CBCNews.ca" tvg-name="''CBC NEWS NETWORK HD" tvg-logo="http://23.237.68.58/logo/cc/cbc_news_network_hd.png" group-title="ENGLISH",''CBC NEWS NETWORK HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/51852
+#EXTINF:-1 tvg-id="CBCCBWT.ca" tvg-name="''CBC WINNIPEG HD" tvg-logo="http://23.237.68.58/logo/cc/cbc.png" group-title="ENGLISH",''CBC WINNIPEG HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/51853
+#EXTINF:-1 tvg-id="CBCHalifaxCBHT.ca" tvg-name="''CBC HALIFAX HD" tvg-logo="http://23.237.68.58/logo/cc/cbc.png" group-title="ENGLISH",''CBC HALIFAX HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/52223
+#EXTINF:-1 tvg-id="CBCCBRTCalgary.ca" tvg-name="''CBC CALGARY HD" tvg-logo="http://23.237.68.58/logo/cc/cbc.png" group-title="ENGLISH",''CBC CALGARY HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/5026
+#EXTINF:-1 tvg-id="CableNewsNetwork.mx" tvg-name="LA: CNN ESPANOL" tvg-logo="https://laalameda.files.wordpress.com/2013/03/cnn-espac3b1ol.jpeg" group-title="SPANISH",LA: CNN ESPANOL
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/20294
